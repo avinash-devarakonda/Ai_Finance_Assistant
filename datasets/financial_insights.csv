@@ -1,0 +1,23 @@
+condition,insight
+food_up,Your food expenses increased by {change}% compared with last month.
+food_down,Your food expenses decreased by {change}% compared with last month.
+shopping_up,Your shopping expenses increased by {change}% compared with last month.
+shopping_down,Your shopping expenses decreased by {change}% compared with last month.
+transport_up,Your transport expenses increased by {change}% compared with last month.
+transport_down,Your transport expenses decreased by {change}% compared with last month.
+category_exceeded,You have exceeded your {category} budget by INR {amount}.
+category_near_limit,Your {category} budget is {percent}% utilized. You are close to the limit.
+savings_improved,Your monthly savings improved by INR {amount} compared with last month.
+savings_declined,Your monthly savings declined by INR {amount} compared with last month.
+expenses_over_income,Your expenses are higher than your income this month.
+highest_category,Your highest spending category is {category} at INR {amount}.
+no_budget,You have not set budgets for {month}. Add budgets to track spending limits.
+budget_on_track,You are within budget in {count} categories this month. Keep it up.
+forecast_rise,"Your estimated expenses for next month are INR {amount}, a {change}% rise."
+forecast_fall,"Your estimated expenses for next month are INR {amount}, a {change}% fall."
+low_data,Add transactions across at least two months to unlock month-over-month insights.
+income_added,Your income this month is INR {amount}. Maintaining a savings rate above 20% is a healthy habit.
+top_merchant,"Your top merchant this month is {merchant}, with spending of INR {amount}."
+budget_exceeded_count,You have exceeded {count} category budget(s) this month.
+savings_rate,Your savings rate this month is {rate}% of your income.
+no_transactions,No transactions found for this period. Add your first transaction to get insights.

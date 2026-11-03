@@ -1,0 +1,12 @@
+Flask==3.1.2
+flask-cors==6.0.1
+PyJWT==2.10.1
+PyMySQL==1.1.2
+cryptography>=43.0.0
+python-dotenv==1.1.1
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+joblib>=1.4.0
+reportlab==4.4.4

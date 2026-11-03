@@ -1,0 +1,1613 @@
+transaction_id,date,description,amount,transaction_type,category,merchant
+10030,2025-01-05,Card payment for Croma gadget accessory,1922,Expense,Shopping,Croma
+10260,2025-03-08,Card payment for Amazon electronics purchase,5067,Expense,Shopping,Amazon
+10384,2025-07-05,UPI payment for BigBasket grocery shopping,1236,Expense,Food,BigBasket
+10426,2025-11-30,Croma gadget accessory,2501,Expense,Shopping,Croma
+10240,2026-03-03,Auto-debit for Competitive exam coaching fee,5614,Expense,Education,Coaching Center
+10788,2026-01-28,Paid via wallet for Wellness Forever pharmacy,1079,Expense,Health,Wellness Forever
+11472,2026-01-23,UPI payment for Amazon electronics purchase,3632,Expense,Shopping,Amazon
+10498,2026-07-16,Card payment for Uber ride to office,275,Expense,Transport,Uber
+10496,2025-03-07,Auto-debit for Flipkart home essentials,751,Expense,Shopping,Flipkart
+10755,2024-11-20,Online payment for DMart monthly household shopping,3890,Expense,Shopping,DMart
+10412,2026-06-04,Paid via wallet for Coursera specialization fee,1894,Expense,Education,Coursera
+11582,2025-01-26,Coffee and breakfast at cafe,280,Expense,Food,Local Cafe
+10721,2025-03-20,Online payment for Apollo Pharmacy medicines,1092,Expense,Health,Apollo Pharmacy
+10248,2026-09-18,Online payment for Nykaa personal care order,2400,Expense,Shopping,Nykaa
+10568,2025-10-22,Card payment for Coursera specialization fee,1784,Expense,Education,Coursera
+10272,2025-11-18,Card payment for DMart monthly household shopping,1010,Expense,Shopping,DMart
+10939,2025-03-29,UPI payment for House rent payment,14960,Expense,Bills,Rent
+10773,2025-12-13,Online payment for Myntra clothing purchase,3058,Expense,Shopping,Myntra
+11080,2025-09-30,Paid via wallet for Zomato lunch order weekend treat,694,Expense,Food,Zomato
+11164,2025-05-05,Card payment for Jio fiber broadband bill,1390,Expense,Bills,Jio
+11138,2024-11-03,UPI payment for Nykaa personal care order,1136,Expense,Shopping,Nykaa
+11415,2026-02-21,Auto-debit for Swiggy dinner order after work,798,Expense,Food,Swiggy
+10814,2026-07-14,UPI payment for Swiggy dinner order,578,Expense,Food,Swiggy
+10794,2026-06-11,Card payment for School tuition fee payment,5139,Expense,Education,School Fees
+10804,2025-05-11,Auto-debit for Electricity bill payment,1894,Expense,Bills,Electricity Board
+10372,2025-10-23,House rent payment,14898,Expense,Bills,Rent
+11210,2024-11-30,Card payment for Airtel postpaid bill,538,Expense,Bills,Airtel
+11044,2026-05-08,Paid via wallet for Jio fiber broadband bill,1227,Expense,Bills,Jio
+11561,2024-11-23,Auto-debit for Bank service charges,337,Expense,Other,Bank
+10333,2025-12-28,Online payment for Swiggy dinner order weekend treat,585,Expense,Food,Swiggy
+11034,2025-05-04,Card payment for BSNL landline bill,411,Expense,Bills,BSNL
+11464,2026-06-06,BookMyShow concert tickets,1345,Expense,Entertainment,BookMyShow
+10620,2025-08-30,Card payment for House rent payment,6614,Expense,Bills,Rent
+10031,2025-01-12,Online payment for Coffee and breakfast at cafe,216,Expense,Food,Local Cafe
+10846,2026-02-28,Paid via wallet for Netflix monthly subscription,636,Expense,Entertainment,Netflix
+11097,2025-10-07,Auto-debit for BSNL landline bill,679,Expense,Bills,BSNL
+11224,2024-11-09,Paid via wallet for Haldirams family dinner,790,Expense,Food,Haldirams
+10552,2025-06-27,UPI payment for BookMyShow concert tickets,1749,Expense,Entertainment,BookMyShow
+10482,2025-01-04,Auto-debit for Bank service charges,280,Expense,Other,Bank
+10262,2025-12-11,Auto-debit for City Hospital consultation,3344,Expense,Health,City Hospital
+10066,2025-08-13,,515,Expense,Food,Dominos
+11254,2025-04-04,,322,Expense,Transport,Ola
+10694,2025-12-04,UPI payment for Smaaash gaming evening,878,Expense,Entertainment,Smaaash
+10163,2026-03-15,Auto-debit for Metro recharge,423,Expense,Transport,Delhi Metro
+10583,2025-07-28,Paid via wallet for Petrol refill at IndianOil,1388,Expense,Transport,IndianOil
+10024,2026-05-07,Auto-debit for Flipkart home essentials,1322,Expense,Shopping,Flipkart
+10383,2026-01-01,Paid via wallet for Stationery and notebooks,349,Expense,Education,Stationery Shop
+10033,2026-06-14,Paid via wallet for Zomato lunch order after work,770,Expense,Food,Zomato
+10301,2026-05-19,Online payment for Croma gadget accessory,1970,Expense,Shopping,Croma
+10783,2024-11-16,Online payment for Petrol refill at IndianOil,1333,Expense,Transport,IndianOil
+11114,2026-02-12,Card payment for House rent payment,13220,Expense,Bills,Rent
+10840,2026-01-23,Online payment for Swiggy dinner order with friends,422,Expense,Food,Swiggy
+11126,2024-12-27,Auto-debit for Jio fiber broadband bill,1007,Expense,Bills,Jio
+10409,2025-11-24,Paid via wallet for Bank service charges,280,Expense,Other,Bank
+10584,2025-04-04,Online payment for Flipkart home essentials,4581,Expense,Shopping,Flipkart
+10598,2025-10-06,Online payment for House rent payment,12398,Expense,Bills,Rent
+10434,2025-12-13,Card payment for Rapido bike taxi,109,Expense,Transport,Rapido
+11162,2025-05-16,Card payment for Coffee and breakfast at cafe weekend treat,516,Expense,Food,Local Cafe
+10375,2025-05-13,Online payment for 1mg health supplements,855,Expense,Health,1mg
+11194,2026-06-10,Electricity bill payment,1643,Expense,Bills,Electricity Board
+10100,2024-11-21,Auto-debit for Swiggy dinner order with friends,852,Expense,Food,Swiggy
+11337,2026-03-17,Online payment for DMart monthly household shopping,6173,Expense,Shopping,DMart
+10535,2025-09-08,Online payment for Metro recharge,391,Expense,Transport,Delhi Metro
+10071,2026-09-12,Card payment for Hotstar annual subscription,547,Expense,Entertainment,Hotstar
+11132,2026-01-28,Card payment for BigBasket grocery shopping weekend treat,2595,Expense,Food,BigBasket
+10070,2026-05-06,Online payment for BigBasket grocery shopping,859,Expense,Food,BigBasket
+10060,2025-10-29,Auto-debit for Coursera specialization fee,3712,Expense,Education,Coursera
+10275,2026-03-06,Online payment for 1mg health supplements,1718,Expense,Health,1mg
+10304,2025-07-15,UPI payment for Competitive exam coaching fee,8695,Expense,Education,Coaching Center
+10768,2024-11-08,Auto-debit for Flipkart home essentials,545,Expense,Shopping,Flipkart
+10245,2026-07-11,UPI payment for Rapido bike taxi,347,Expense,Transport,Rapido
+11091,2026-02-25,Online payment for School tuition fee payment,10229,Expense,Education,School Fees
+11302,2025-04-27,UPI payment for Rapido bike taxi,86,Expense,Transport,Rapido
+11313,2026-03-01,Card payment for Birthday gift purchase,1889,Expense,Other,Gift Shop
+10169,2026-09-14,,2373,Expense,Food,BigBasket
+10353,2025-05-10,Rapido bike taxi,171,Expense,Transport,Rapido
+11591,2026-08-24,UPI payment for Blinkit groceries and snacks,687,Expense,Food,Blinkit
+10591,2026-08-05,UPI payment for Nykaa personal care order,1571,Expense,Shopping,Nykaa
+10650,2025-01-31,Amazon technical books,524,Expense,Education,Amazon Books
+11197,2026-05-03,UPI payment for Blinkit groceries and snacks,1534,Expense,Food,Blinkit
+11583,2026-09-05,IRCTC train ticket booking,943,Expense,Transport,IRCTC
+10238,2026-07-23,,340,Expense,Transport,Rapido
+11402,2025-11-29,Paid via wallet for Wellness Forever pharmacy,823,Expense,Health,Wellness Forever
+10916,2026-05-25,Auto-debit for LPG cylinder booking,1221,Expense,Bills,Gas Agency
+10325,2026-03-01,Auto-debit for Amazon electronics purchase,942,Expense,Shopping,Amazon
+10406,2025-10-29,Card payment for Flipkart home essentials,1403,Expense,Shopping,Flipkart
+10756,2026-02-03,Auto-debit for Smaaash gaming evening,768,Expense,Entertainment,Smaaash
+11425,2024-12-18,Auto-debit for IRCTC train ticket booking,1438,Expense,Transport,IRCTC
+10430,2026-08-03,Paid via wallet for Amazon electronics purchase,3353,Expense,Shopping,Amazon
+10414,2025-06-01,Auto-debit for Jio fiber broadband bill,1673,Expense,Bills,Jio
+10345,2025-02-11,Online payment for Swiggy dinner order,633,Expense,Food,Swiggy
+11342,2025-08-29,Paid via wallet for Dominos pizza night with friends,609,Expense,Food,Dominos
+10310,2026-02-08,Decathlon sports gear,3775,Expense,Shopping,Decathlon
+11411,2025-05-26,Flipkart home essentials,5413,Expense,Shopping,Flipkart
+10708,2026-07-22,Auto-debit for Dominos pizza night with friends,883,Expense,Food,Dominos
+10136,2026-05-07,,10385,Expense,Bills,Rent
+11014,2025-08-14,Paid via wallet for Steam game purchase,2697,Expense,Entertainment,Steam
+10317,2026-04-02,Paid via wallet for Cult Fit gym membership,1045,Expense,Health,Cult Fit
+10889,2026-01-31,Auto-debit for Swiggy dinner order,913,Expense,Food,Swiggy
+10050,2025-03-16,Card payment for ATM cash withdrawal,3072,Expense,Other,ATM
+11223,2025-11-07,Online payment for Electricity bill payment,2101,Expense,Bills,Electricity Board
+11557,2026-06-11,Paid via wallet for Nykaa personal care order,714,Expense,Shopping,Nykaa
+10866,2025-06-02,Online payment for Zomato lunch order,502,Expense,Food,Zomato
+10915,2026-01-15,UPI payment for Rapido bike taxi,357,Expense,Transport,Rapido
+10880,2025-08-10,Auto-debit for LIC insurance premium,4533,Expense,Other,LIC
+10484,2025-10-18,Online payment for IRCTC train ticket booking,803,Expense,Transport,IRCTC
+10874,2026-07-08,Paid via wallet for Myntra clothing purchase,3119,Expense,Shopping,Myntra
+10681,2026-04-05,UPI payment for BigBasket grocery shopping,2918,Expense,Food,BigBasket
+10125,2026-03-19,School tuition fee payment,3140,Expense,Education,School Fees
+11090,2025-04-02,Auto-debit for IRCTC train ticket booking,1059,Expense,Transport,IRCTC
+10917,2025-03-30,Online payment for Udemy online course purchase,1151,Expense,Education,Udemy
+10675,2025-08-26,Auto-debit for Dominos pizza night,719,Expense,Food,Dominos
+10395,2025-07-26,Auto-debit for Haldirams family dinner,680,Expense,Food,Haldirams
+11542,2026-01-31,Doctor consultation fee,1541,Expense,Health,Dr Mehta
+10555,2026-06-29,Dominos pizza night,1169,Expense,Food,Dominos
+10644,2026-05-15,Card payment for Swiggy dinner order,560,Expense,Food,Swiggy
+11418,2024-12-15,Nykaa personal care order,1837,Expense,Shopping,Nykaa
+11481,2025-10-01,Card payment for Netflix monthly subscription,400,Expense,Entertainment,Netflix
+11145,2025-10-31,Dominos pizza night,726,Expense,Food,Dominos
+10074,2025-04-28,Auto-debit for Blinkit groceries and snacks,1601,Expense,Food,Blinkit
+10110,2026-02-05,UPI payment for Ola cab ride,456,Expense,Transport,Ola
+11429,2026-04-16,Paid via wallet for Hotstar annual subscription,1200,Expense,Entertainment,Hotstar
+10221,2025-06-09,Auto-debit for Water utility bill,554,Expense,Bills,Water Works
+11522,2025-04-22,Paid via wallet for Blinkit groceries and snacks with friends,757,Expense,Food,Blinkit
+11417,2024-12-01,Auto-debit for Swiggy dinner order after work,460,Expense,Food,Swiggy
+11470,2025-12-12,Myntra clothing purchase,3887,Expense,Shopping,Myntra
+10185,2026-05-29,Card payment for Zomato lunch order,541,Expense,Food,Zomato
+10837,2025-05-12,Rapido bike taxi,190,Expense,Transport,Rapido
+11549,2025-02-27,Card payment for Post office charges,389,Expense,Other,Post Office
+10744,2024-12-14,Online payment for Spotify premium subscription,137,Expense,Entertainment,Spotify
+10186,2025-09-06,Online payment for Swiggy dinner order,731,Expense,Food,Swiggy
+10052,2026-05-22,Card payment for Fastag toll recharge,729,Expense,Transport,Fastag
+10077,2025-08-18,Auto-debit for Decathlon sports gear,3835,Expense,Shopping,Decathlon
+10599,2025-11-17,Blinkit groceries and snacks,833,Expense,Food,Blinkit
+10528,2025-03-26,Online payment for Zomato lunch order,572,Expense,Food,Zomato
+10818,2025-12-20,PVR movie tickets,837,Expense,Entertainment,PVR
+11094,2024-11-17,Paid via wallet for Dominos pizza night,691,Expense,Food,Dominos
+11422,2025-11-17,Online payment for Amazon technical books,955,Expense,Education,Amazon Books
+10858,2026-07-07,Auto-debit for Myntra clothing purchase,3082,Expense,Shopping,Myntra
+10124,2024-12-23,Card payment for Petrol refill at IndianOil,1398,Expense,Transport,IndianOil
+10271,2026-04-04,Auto-debit for Dominos pizza night,433,Expense,Food,Dominos
+10451,2025-04-13,Card payment for Stationery and notebooks,226,Expense,Education,Stationery Shop
+10651,2026-04-08,,1706,Expense,Health,Practo
+10399,2026-05-14,Paid via wallet for Haldirams family dinner weekend treat,838,Expense,Food,Haldirams
+10850,2026-06-22,Electricity bill payment,636,Expense,Bills,Electricity Board
+10136,2026-05-07,,10385,Expense,Bills,Rent
+11458,2026-03-02,UPI payment for City Hospital consultation,2038,Expense,Health,City Hospital
+10276,2026-02-12,Zomato lunch order,298,Expense,Food,Zomato
+11146,2025-05-07,Amazon electronics purchase,4201,Expense,Shopping,Amazon
+11539,2025-02-11,Online payment for Petrol refill at IndianOil,3304,Expense,Transport,IndianOil
+10068,2025-10-20,Online payment for Dominos pizza night,417,Expense,Food,Dominos
+10817,2025-04-21,Online payment for Water utility bill,509,Expense,Bills,Water Works
+10142,2026-03-23,Card payment for Uber ride to office,565,Expense,Transport,Uber
+10742,2026-06-03,Auto-debit for Coffee and breakfast at cafe,171,Expense,Food,Local Cafe
+10932,2026-02-18,Online payment for Airtel postpaid bill,1153,Expense,Bills,Airtel
+10536,2025-04-01,Airtel postpaid bill,681,Expense,Bills,Airtel
+11059,2026-05-04,UPI payment for Water utility bill,912,Expense,Bills,Water Works
+10204,2026-07-05,Auto-debit for LPG cylinder booking,1008,Expense,Bills,Gas Agency
+10944,2026-05-15,Card payment for Amazon electronics purchase,3536,Expense,Shopping,Amazon
+10174,2024-12-21,Auto-debit for Bank service charges,161,Expense,Other,Bank
+11030,2026-04-27,Online payment for Fastag toll recharge,728,Expense,Transport,Fastag
+10820,2025-11-07,Online payment for Electricity bill payment,3677,Expense,Bills,Electricity Board
+10919,2025-05-12,Stationery and notebooks,633,Expense,Education,Stationery Shop
+10252,2026-05-07,Online payment for Haldirams family dinner,1594,Expense,Food,Haldirams
+11101,2026-05-29,Online payment for Ola cab ride,480,Expense,Transport,Ola
+10307,2024-12-13,Steam game purchase,1148,Expense,Entertainment,Steam
+10480,2026-02-09,Paid via wallet for Myntra clothing purchase,3687,Expense,Shopping,Myntra
+11546,2025-10-07,UPI payment for Stationery and notebooks,474,Expense,Education,Stationery Shop
+11235,2025-05-23,Coffee and breakfast at cafe,605,Expense,Food,Local Cafe
+11349,2026-08-24,Nykaa personal care order,2584,Expense,Shopping,Nykaa
+11560,2025-12-07,Card payment for Smaaash gaming evening,1800,Expense,Entertainment,Smaaash
+11445,2025-06-03,Paid via wallet for Cult Fit gym membership,2816,Expense,Health,Cult Fit
+10757,2025-12-26,Auto-debit for Birthday gift purchase,1275,Expense,Other,Gift Shop
+10985,2025-02-04,Online payment for Haldirams family dinner,1596,Expense,Food,Haldirams
+11320,2026-05-21,Card payment for City Hospital consultation,2117,Expense,Health,City Hospital
+10491,2025-03-04,Paid via wallet for DMart monthly household shopping,952,Expense,Shopping,DMart
+10367,2024-11-23,Paid via wallet for BigBasket grocery shopping,2318,Expense,Food,BigBasket
+10725,2025-10-19,UPI payment for Amazon electronics purchase,2756,Expense,Shopping,Amazon
+10865,2026-06-28,Card payment for Practo lab test booking,1515,Expense,Health,Practo
+11056,2026-03-16,Paid via wallet for Swiggy dinner order weekend treat,828,Expense,Food,Swiggy
+11580,2024-11-06,Auto-debit for Coursera specialization fee,4500,Expense,Education,Coursera
+11448,2026-05-05,Card payment for BigBasket grocery shopping,2441,Expense,Food,BigBasket
+10463,2024-11-10,Paid via wallet for Petrol refill at IndianOil,2303,Expense,Transport,IndianOil
+10963,2026-05-04,Card payment for Water utility bill,260,Expense,Bills,Water Works
+10799,2026-06-12,Card payment for Metro recharge,370,Expense,Transport,Delhi Metro
+10340,2026-06-11,Online payment for NPTEL exam registration,1179,Expense,Education,NPTEL
+11152,2024-11-18,Paid via wallet for Amazon electronics purchase,1162,Expense,Shopping,Amazon
+10562,2026-01-22,Online payment for Metro recharge,142,Expense,Transport,Delhi Metro
+10298,2026-07-20,Water utility bill,719,Expense,Bills,Water Works
+10592,2025-01-08,City Hospital consultation,1664,Expense,Health,City Hospital
+10809,2025-04-30,Paid via wallet for Blinkit groceries and snacks,562,Expense,Food,Blinkit
+11166,2025-11-05,Online payment for Swiggy dinner order,658,Expense,Food,Swiggy
+10171,2025-07-15,Paid via wallet for Charity donation,1377,Expense,Other,Donation
+11098,2026-07-21,Auto-debit for BigBasket grocery shopping,2916,Expense,Food,BigBasket
+10238,2026-07-23,,340,Expense,Transport,Rapido
+10290,2025-02-25,DMart monthly household shopping,2190,Expense,Shopping,DMart
+10045,2025-06-29,Paid via wallet for Apollo Pharmacy medicines,1401,Expense,Health,Apollo Pharmacy
+10539,2025-03-24,Spotify premium subscription,130,Expense,Entertainment,Spotify
+11173,2025-12-19,Ola cab ride,293,Expense,Transport,Ola
+10893,2026-04-21,UPI payment for Croma gadget accessory,1213,Expense,Shopping,Croma
+10901,2025-11-21,Auto-debit for Spotify premium subscription,351,Expense,Entertainment,Spotify
+10835,2025-12-05,Paid via wallet for Flipkart home essentials,1366,Expense,Shopping,Flipkart
+11139,2026-09-01,Online payment for Rapido bike taxi,288,Expense,Transport,Rapido
+11135,2025-08-07,Paid via wallet for Netflix monthly subscription,224,Expense,Entertainment,Netflix
+11147,2025-09-05,Card payment for Jio fiber broadband bill,1501,Expense,Bills,Jio
+10355,2026-04-12,,19796,Expense,Bills,Rent
+11545,2026-09-18,,1127,Expense,Food,Dominos
+10116,2026-06-19,Card payment for Petrol refill at IndianOil,2033,Expense,Transport,IndianOil
+10533,2025-02-20,UPI payment for Zomato lunch order after work,346,Expense,Food,Zomato
+10716,2025-06-22,Card payment for Dominos pizza night,890,Expense,Food,Dominos
+11461,2025-02-02,Card payment for School tuition fee payment,7425,Expense,Education,School Fees
+10176,2026-09-26,Online payment for Spotify premium subscription,326,Expense,Entertainment,Spotify
+10351,2026-05-11,Auto-debit for Electricity bill payment,1687,Expense,Bills,Electricity Board
+10702,2026-07-05,Jio fiber broadband bill,790,Expense,Bills,Jio
+10950,2026-05-18,Petrol refill at IndianOil,2753,Expense,Transport,IndianOil
+10416,2025-10-06,Paid via wallet for BSNL landline bill,644,Expense,Bills,BSNL
+10079,2025-07-09,Paid via wallet for Fastag toll recharge,343,Expense,Transport,Fastag
+10882,2025-07-14,UPI payment for Ola cab ride,280,Expense,Transport,Ola
+11520,2025-01-31,Doctor consultation fee,750,Expense,Health,Dr Mehta
+11271,2026-01-08,DMart monthly household shopping,3268,Expense,Shopping,DMart
+11344,2024-12-16,Paid via wallet for Amazon electronics purchase,3359,Expense,Shopping,Amazon
+11315,2026-01-06,UPI payment for Jio fiber broadband bill,899,Expense,Bills,Jio
+11103,2025-06-03,Online payment for Decathlon sports gear,3479,Expense,Shopping,Decathlon
+11495,2025-10-06,Card payment for Wellness Forever pharmacy,178,Expense,Health,Wellness Forever
+10199,2026-03-03,Paid via wallet for BigBasket grocery shopping,2314,Expense,Food,BigBasket
+10016,2025-07-28,Online payment for Zomato lunch order,390,Expense,Food,Zomato
+11403,2026-09-23,Steam game purchase,1456,Expense,Entertainment,Steam
+11037,2026-07-02,Online payment for Swiggy dinner order,607,Expense,Food,Swiggy
+10549,2026-05-12,Paid via wallet for BookMyShow concert tickets,2029,Expense,Entertainment,BookMyShow
+10693,2025-02-13,Auto-debit for Coffee and breakfast at cafe,160,Expense,Food,Local Cafe
+11281,2025-07-30,Card payment for Water utility bill,661,Expense,Bills,Water Works
+10701,2025-10-05,Paid via wallet for Ola cab ride,373,Expense,Transport,Ola
+11246,2026-05-25,House rent payment,11576,Expense,Bills,Rent
+10949,2024-12-07,BigBasket grocery shopping,2558,Expense,Food,BigBasket
+10811,2025-02-10,Online payment for IRCTC train ticket booking,1915,Expense,Transport,IRCTC
+10602,2025-12-22,Online payment for Jio fiber broadband bill,1373,Expense,Bills,Jio
+10737,2026-06-19,Auto-debit for Swiggy dinner order,936,Expense,Food,Swiggy
+11308,2025-02-22,Water utility bill,826,Expense,Bills,Water Works
+10200,2026-07-23,Amazon electronics purchase,3066,Expense,Shopping,Amazon
+11253,2025-07-29,Auto-debit for Metro recharge,398,Expense,Transport,Delhi Metro
+11339,2025-06-06,Paid via wallet for Nykaa personal care order,1517,Expense,Shopping,Nykaa
+10472,2026-07-18,Online payment for Blinkit groceries and snacks,996,Expense,Food,Blinkit
+11577,2024-11-21,Paid via wallet for Haldirams family dinner,1408,Expense,Food,Haldirams
+11394,2025-02-08,Dominos pizza night,676,Expense,Food,Dominos
+10673,2026-07-28,Auto-debit for Wellness Forever pharmacy,754,Expense,Health,Wellness Forever
+10299,2026-04-23,Paid via wallet for BigBasket grocery shopping,3639,Expense,Food,BigBasket
+10810,2025-09-20,Paid via wallet for Birthday gift purchase,1794,Expense,Other,Gift Shop
+10417,2025-01-20,Auto-debit for Spotify premium subscription,383,Expense,Entertainment,Spotify
+11176,2026-02-09,Post office charges,255,Expense,Other,Post Office
+11566,2026-08-29,Coursera specialization fee,1847,Expense,Education,Coursera
+11353,2024-11-20,Card payment for Udemy online course purchase,2594,Expense,Education,Udemy
+11165,2025-02-24,Card payment for Post office charges,137,Expense,Other,Post Office
+10707,2026-08-27,Miscellaneous household item,654,Expense,Other,Misc Store
+11204,2026-01-19,Auto-debit for Competitive exam coaching fee,8050,Expense,Education,Coaching Center
+10241,2025-10-18,Online payment for Swiggy dinner order weekend treat,683,Expense,Food,Swiggy
+10571,2025-12-29,Paid via wallet for Rapido bike taxi,155,Expense,Transport,Rapido
+10057,2026-01-12,Auto-debit for LIC insurance premium,5039,Expense,Other,LIC
+10848,2025-09-02,UPI payment for Competitive exam coaching fee,2391,Expense,Education,Coaching Center
+10044,2026-04-05,Decathlon sports gear,2291,Expense,Shopping,Decathlon
+10101,2025-07-21,Card payment for Amazon electronics purchase,3680,Expense,Shopping,Amazon
+10990,2025-02-18,Card payment for Jio fiber broadband bill,1224,Expense,Bills,Jio
+10102,2025-04-17,Card payment for Coffee and breakfast at cafe with friends,663,Expense,Food,Local Cafe
+11310,2025-11-06,UPI payment for Flipkart home essentials,3974,Expense,Shopping,Flipkart
+10108,2026-08-29,Card payment for Flipkart home essentials,2780,Expense,Shopping,Flipkart
+10527,2025-09-11,,3917,Expense,Other,ATM
+10452,2025-05-08,UPI payment for DMart monthly household shopping,1913,Expense,Shopping,DMart
+10589,2026-02-03,UPI payment for LPG cylinder booking,969,Expense,Bills,Gas Agency
+11507,2026-07-14,Paid via wallet for Metro recharge,281,Expense,Transport,Delhi Metro
+11427,2026-04-05,Auto-debit for Haldirams family dinner,746,Expense,Food,Haldirams
+10590,2025-03-10,Coursera specialization fee,5159,Expense,Education,Coursera
+11291,2024-11-09,Fastag toll recharge,900,Expense,Transport,Fastag
+10965,2025-06-02,Auto-debit for House rent payment,10416,Expense,Bills,Rent
+10129,2025-02-10,UPI payment for IRCTC train ticket booking,649,Expense,Transport,IRCTC
+10332,2026-06-10,Online payment for 1mg health supplements,1435,Expense,Health,1mg
+10362,2026-07-04,Smaaash gaming evening,744,Expense,Entertainment,Smaaash
+11552,2025-12-03,Paid via wallet for Swiggy dinner order,625,Expense,Food,Swiggy
+11051,2024-12-27,Online payment for Amazon technical books,745,Expense,Education,Amazon Books
+11366,2026-01-08,Auto-debit for Flipkart home essentials,4269,Expense,Shopping,Flipkart
+10619,2026-07-08,Paid via wallet for Coffee and breakfast at cafe,589,Expense,Food,Local Cafe
+11113,2025-10-01,Paid via wallet for IRCTC train ticket booking,1241,Expense,Transport,IRCTC
+11360,2025-07-04,Auto-debit for Fastag toll recharge,958,Expense,Transport,Fastag
+10983,2026-01-31,Auto-debit for Nykaa personal care order,1751,Expense,Shopping,Nykaa
+10382,2024-12-19,Card payment for Stationery and notebooks,544,Expense,Education,Stationery Shop
+10875,2025-11-16,Paid via wallet for Amazon technical books,1377,Expense,Education,Amazon Books
+10937,2025-11-29,Online payment for BigBasket grocery shopping,2020,Expense,Food,BigBasket
+10343,2025-08-06,UPI payment for Haldirams family dinner weekend treat,1440,Expense,Food,Haldirams
+10494,2026-07-18,Online payment for LIC insurance premium,1443,Expense,Other,LIC
+10711,2026-08-30,UPI payment for BookMyShow concert tickets,1377,Expense,Entertainment,BookMyShow
+10597,2025-12-18,UPI payment for Croma gadget accessory,1932,Expense,Shopping,Croma
+11221,2025-11-12,Card payment for Birthday gift purchase,2350,Expense,Other,Gift Shop
+11010,2026-02-04,Paid via wallet for Water utility bill,515,Expense,Bills,Water Works
+10232,2026-08-23,UPI payment for Amazon technical books,979,Expense,Education,Amazon Books
+11378,2025-10-28,Paid via wallet for NPTEL exam registration,1311,Expense,Education,NPTEL
+10630,2026-02-12,UPI payment for Charity donation,1010,Expense,Other,Donation
+10164,2025-08-22,UPI payment for Swiggy dinner order,491,Expense,Food,Swiggy
+10807,2025-06-23,Ola cab ride,479,Expense,Transport,Ola
+10529,2025-11-17,Paid via wallet for Zomato lunch order,783,Expense,Food,Zomato
+10267,2025-09-05,Water utility bill,214,Expense,Bills,Water Works
+11489,2025-06-27,Auto-debit for LPG cylinder booking,1022,Expense,Bills,Gas Agency
+11358,2025-09-30,UPI payment for BigBasket grocery shopping with friends,2094,Expense,Food,BigBasket
+11270,2026-04-09,UPI payment for Electricity bill payment,2954,Expense,Bills,Electricity Board
+10553,2024-12-28,UPI payment for Blinkit groceries and snacks,626,Expense,Food,Blinkit
+11273,2025-06-18,Online payment for Coffee and breakfast at cafe,294,Expense,Food,Local Cafe
+10193,2026-08-20,Online payment for NPTEL exam registration,1065,Expense,Education,NPTEL
+11024,2025-10-18,Zomato lunch order,817,Expense,Food,Zomato
+10064,2026-02-25,UPI payment for Blinkit groceries and snacks after work,516,Expense,Food,Blinkit
+10781,2025-06-26,Auto-debit for Haldirams family dinner with friends,1330,Expense,Food,Haldirams
+10979,2026-05-28,Auto-debit for Dominos pizza night weekend treat,551,Expense,Food,Dominos
+11031,2026-01-17,Auto-debit for ATM cash withdrawal,5116,Expense,Other,ATM
+11374,2026-07-07,Card payment for Metro recharge,245,Expense,Transport,Delhi Metro
+10519,2024-12-07,Auto-debit for DMart monthly household shopping,4723,Expense,Shopping,DMart
+10722,2026-08-12,UPI payment for Decathlon sports gear,3773,Expense,Shopping,Decathlon
+10969,2026-03-24,,376,Expense,Health,Practo
+11567,2025-04-01,Paid via wallet for Fastag toll recharge,870,Expense,Transport,Fastag
+10638,2025-08-25,Paid via wallet for Uber ride to office,540,Expense,Transport,Uber
+10219,2026-06-05,Auto-debit for Metro recharge,220,Expense,Transport,Delhi Metro
+10900,2025-07-23,Auto-debit for Coffee and breakfast at cafe,237,Expense,Food,Local Cafe
+10287,2025-03-10,Coffee and breakfast at cafe weekend treat,456,Expense,Food,Local Cafe
+11000,2026-09-27,Card payment for Electricity bill payment,1634,Expense,Bills,Electricity Board
+11558,2025-11-21,Jio fiber broadband bill,1351,Expense,Bills,Jio
+10514,2024-12-01,Card payment for PVR movie tickets,992,Expense,Entertainment,PVR
+10423,2025-12-04,Card payment for Blinkit groceries and snacks,1131,Expense,Food,Blinkit
+11084,2026-08-10,Card payment for Dominos pizza night,530,Expense,Food,Dominos
+11325,2025-06-07,Spotify premium subscription,283,Expense,Entertainment,Spotify
+11081,2025-02-09,UPI payment for Coursera specialization fee,3610,Expense,Education,Coursera
+10964,2026-04-18,Card payment for Decathlon sports gear,2473,Expense,Shopping,Decathlon
+10908,2025-10-27,Card payment for Petrol refill at IndianOil,1896,Expense,Transport,IndianOil
+10986,2026-02-25,UPI payment for Nykaa personal care order,1987,Expense,Shopping,Nykaa
+10603,2026-04-12,UPI payment for Croma gadget accessory,4150,Expense,Shopping,Croma
+10354,2025-05-17,UPI payment for Smaaash gaming evening,990,Expense,Entertainment,Smaaash
+10731,2026-06-04,Card payment for Electricity bill payment,2350,Expense,Bills,Electricity Board
+11193,2026-01-06,Card payment for Blinkit groceries and snacks after work,1439,Expense,Food,Blinkit
+11327,2025-09-08,Online payment for Haldirams family dinner,1124,Expense,Food,Haldirams
+10368,2025-10-19,Online payment for Zomato lunch order with friends,482,Expense,Food,Zomato
+10544,2026-03-24,Coffee and breakfast at cafe,374,Expense,Food,Local Cafe
+10845,2025-05-23,Paid via wallet for BookMyShow concert tickets,1147,Expense,Entertainment,BookMyShow
+10715,2025-10-06,Blinkit groceries and snacks with friends,501,Expense,Food,Blinkit
+10531,2025-07-26,Card payment for Blinkit groceries and snacks,1376,Expense,Food,Blinkit
+10483,2025-09-27,Card payment for DMart monthly household shopping,4901,Expense,Shopping,DMart
+10671,2025-09-08,Auto-debit for Wellness Forever pharmacy,980,Expense,Health,Wellness Forever
+11064,2025-05-27,Paid via wallet for Decathlon sports gear,2593,Expense,Shopping,Decathlon
+10278,2025-05-15,Card payment for Cult Fit gym membership,1562,Expense,Health,Cult Fit
+11250,2025-10-14,Paid via wallet for Electricity bill payment,1058,Expense,Bills,Electricity Board
+11474,2025-04-22,Dominos pizza night,523,Expense,Food,Dominos
+10803,2025-06-04,Paid via wallet for Myntra clothing purchase,2607,Expense,Shopping,Myntra
+10237,2024-12-09,Coffee and breakfast at cafe,161,Expense,Food,Local Cafe
+10679,2026-02-05,Paid via wallet for NPTEL exam registration,1054,Expense,Education,NPTEL
+11343,2025-09-09,Card payment for Coffee and breakfast at cafe weekend treat,394,Expense,Food,Local Cafe
+11554,2026-02-15,Card payment for Airtel postpaid bill,763,Expense,Bills,Airtel
+10352,2025-05-17,Flipkart home essentials,4483,Expense,Shopping,Flipkart
+11115,2025-06-21,Paid via wallet for BSNL landline bill,564,Expense,Bills,BSNL
+10209,2025-11-17,UPI payment for Haldirams family dinner,578,Expense,Food,Haldirams
+11376,2026-03-16,Paid via wallet for Water utility bill,577,Expense,Bills,Water Works
+10501,2025-02-24,UPI payment for Smaaash gaming evening,1824,Expense,Entertainment,Smaaash
+10530,2025-12-09,Swiggy dinner order,684,Expense,Food,Swiggy
+10059,2025-11-09,Jio fiber broadband bill,966,Expense,Bills,Jio
+10680,2026-04-28,Online payment for LPG cylinder booking,820,Expense,Bills,Gas Agency
+11332,2026-09-20,UPI payment for Rapido bike taxi,300,Expense,Transport,Rapido
+10567,2025-06-15,Online payment for Dominos pizza night,1402,Expense,Food,Dominos
+11191,2025-09-16,Auto-debit for Rapido bike taxi,116,Expense,Transport,Rapido
+11519,2026-04-30,Online payment for City Hospital consultation,2705,Expense,Health,City Hospital
+11212,2025-09-18,Auto-debit for Amazon electronics purchase,1119,Expense,Shopping,Amazon
+10355,2026-04-12,,19796,Expense,Bills,Rent
+10819,2025-08-26,Online payment for Dominos pizza night,531,Expense,Food,Dominos
+11297,2025-04-15,Card payment for Amazon technical books,968,Expense,Education,Amazon Books
+10439,2026-09-06,UPI payment for Jio fiber broadband bill,1288,Expense,Bills,Jio
+10947,2025-05-02,UPI payment for Uber ride to office,148,Expense,Transport,Uber
+10293,2025-01-15,Paid via wallet for School tuition fee payment,3981,Expense,Education,School Fees
+11178,2025-11-27,Auto-debit for Cult Fit gym membership,2839,Expense,Health,Cult Fit
+11238,2026-07-26,Paid via wallet for Blinkit groceries and snacks,1150,Expense,Food,Blinkit
+11068,2026-06-19,LPG cylinder booking,757,Expense,Bills,Gas Agency
+11027,2025-04-21,Paid via wallet for Dominos pizza night,889,Expense,Food,Dominos
+10234,2026-09-29,Auto-debit for Decathlon sports gear,2980,Expense,Shopping,Decathlon
+10706,2025-10-06,Card payment for Zomato lunch order,816,Expense,Food,Zomato
+10197,2024-11-16,Card payment for Netflix monthly subscription,513,Expense,Entertainment,Netflix
+10758,2026-09-07,Auto-debit for Coffee and breakfast at cafe,474,Expense,Food,Local Cafe
+11351,2026-07-27,Auto-debit for House rent payment,11784,Expense,Bills,Rent
+10082,2026-01-10,UPI payment for NPTEL exam registration,1134,Expense,Education,NPTEL
+11563,2025-05-19,Online payment for Blinkit groceries and snacks,722,Expense,Food,Blinkit
+10454,2025-08-13,Online payment for Water utility bill,143,Expense,Bills,Water Works
+11240,2025-06-18,Online payment for BookMyShow concert tickets,2239,Expense,Entertainment,BookMyShow
+10381,2026-06-29,Online payment for DMart monthly household shopping,1934,Expense,Shopping,DMart
+10112,2025-07-23,Card payment for 1mg health supplements,972,Expense,Health,1mg
+11369,2026-08-10,UPI payment for BSNL landline bill,885,Expense,Bills,BSNL
+11035,2025-12-27,Nykaa personal care order,280,Expense,Shopping,Nykaa
+11359,2025-09-28,Card payment for Uber ride to office,294,Expense,Transport,Uber
+11074,2026-04-27,Uber ride to office,386,Expense,Transport,Uber
+11357,2025-05-07,Card payment for Swiggy dinner order,620,Expense,Food,Swiggy
+10907,2026-04-27,Card payment for House rent payment,5939,Expense,Bills,Rent
+11459,2026-02-13,Card payment for Electricity bill payment,2377,Expense,Bills,Electricity Board
+10311,2025-05-28,Card payment for Jio fiber broadband bill,1176,Expense,Bills,Jio
+10977,2025-05-25,UPI payment for Electricity bill payment,2257,Expense,Bills,Electricity Board
+10495,2025-04-05,Paid via wallet for Dominos pizza night,1062,Expense,Food,Dominos
+10611,2026-04-10,House rent payment,9419,Expense,Bills,Rent
+10545,2025-08-14,Paid via wallet for Myntra clothing purchase,1197,Expense,Shopping,Myntra
+11192,2025-10-12,UPI payment for Blinkit groceries and snacks after work,368,Expense,Food,Blinkit
+10421,2025-11-25,School tuition fee payment,4625,Expense,Education,School Fees
+11047,2025-07-31,UPI payment for Airtel postpaid bill,1279,Expense,Bills,Airtel
+11600,2026-07-02,Paid via wallet for Hotstar annual subscription,1553,Expense,Entertainment,Hotstar
+11170,2025-02-16,Paid via wallet for Uber ride to office,679,Expense,Transport,Uber
+10612,2025-03-16,Online payment for Wellness Forever pharmacy,1032,Expense,Health,Wellness Forever
+10433,2025-03-20,Card payment for Decathlon sports gear,4882,Expense,Shopping,Decathlon
+11547,2025-10-18,Paid via wallet for NPTEL exam registration,1247,Expense,Education,NPTEL
+10860,2024-11-20,Auto-debit for Blinkit groceries and snacks,1037,Expense,Food,Blinkit
+11179,2025-01-18,Online payment for Jio fiber broadband bill,1059,Expense,Bills,Jio
+10888,2025-04-03,Card payment for Coffee and breakfast at cafe,149,Expense,Food,Local Cafe
+10614,2026-02-14,Card payment for Water utility bill,872,Expense,Bills,Water Works
+10887,2026-08-10,Paid via wallet for Smaaash gaming evening,1096,Expense,Entertainment,Smaaash
+11180,2025-08-28,Online payment for Smaaash gaming evening,1182,Expense,Entertainment,Smaaash
+10868,2024-12-30,Auto-debit for BookMyShow concert tickets,2483,Expense,Entertainment,BookMyShow
+10328,2024-11-18,Card payment for Nykaa personal care order,1599,Expense,Shopping,Nykaa
+10255,2026-07-19,Card payment for Nykaa personal care order,2331,Expense,Shopping,Nykaa
+10323,2025-11-18,Card payment for Airtel postpaid bill,446,Expense,Bills,Airtel
+11171,2025-12-10,Paid via wallet for Nykaa personal care order,1605,Expense,Shopping,Nykaa
+10515,2026-06-14,,837,Expense,Entertainment,PVR
+11450,2025-11-26,UPI payment for LPG cylinder booking,1051,Expense,Bills,Gas Agency
+11367,2026-07-29,Card payment for Amazon electronics purchase,6660,Expense,Shopping,Amazon
+10615,2025-12-12,Auto-debit for Dominos pizza night weekend treat,1092,Expense,Food,Dominos
+10507,2025-08-12,Nykaa personal care order,1623,Expense,Shopping,Nykaa
+10984,2026-09-18,Auto-debit for Metro recharge,485,Expense,Transport,Delhi Metro
+10428,2025-08-03,Card payment for Jio fiber broadband bill,1305,Expense,Bills,Jio
+10847,2024-12-14,Online payment for Electricity bill payment,3023,Expense,Bills,Electricity Board
+10087,2025-08-09,Paid via wallet for Fastag toll recharge,794,Expense,Transport,Fastag
+11133,2026-06-25,Auto-debit for Post office charges,384,Expense,Other,Post Office
+11527,2025-03-08,Card payment for 1mg health supplements,290,Expense,Health,1mg
+10366,2026-02-11,Auto-debit for Amazon electronics purchase,3456,Expense,Shopping,Amazon
+10266,2026-05-16,Online payment for Udemy online course purchase,1412,Expense,Education,Udemy
+10288,2025-04-07,Online payment for Petrol refill at IndianOil,2316,Expense,Transport,IndianOil
+11596,2025-03-07,UPI payment for LIC insurance premium,2581,Expense,Other,LIC
+10359,2025-09-15,Online payment for Dominos pizza night after work,546,Expense,Food,Dominos
+10055,2024-12-23,BSNL landline bill,479,Expense,Bills,BSNL
+11111,2026-08-23,Flipkart home essentials,2653,Expense,Shopping,Flipkart
+11211,2024-12-14,Online payment for PVR movie tickets,943,Expense,Entertainment,PVR
+11309,2026-05-30,Steam game purchase,2195,Expense,Entertainment,Steam
+11119,2025-11-14,UPI payment for Dominos pizza night weekend treat,860,Expense,Food,Dominos
+10635,2024-11-15,Card payment for Coffee and breakfast at cafe,216,Expense,Food,Local Cafe
+10918,2025-12-27,Card payment for Dominos pizza night,1115,Expense,Food,Dominos
+11217,2025-12-05,Online payment for PVR movie tickets,717,Expense,Entertainment,PVR
+10222,2026-07-01,Paid via wallet for BigBasket grocery shopping,1095,Expense,Food,BigBasket
+10114,2026-05-23,UPI payment for Udemy online course purchase,1162,Expense,Education,Udemy
+10652,2026-02-11,Card payment for Netflix monthly subscription,822,Expense,Entertainment,Netflix
+10683,2025-07-13,Card payment for DMart monthly household shopping,3027,Expense,Shopping,DMart
+10175,2025-06-24,Auto-debit for Smaaash gaming evening,1616,Expense,Entertainment,Smaaash
+11502,2026-08-13,UPI payment for Electricity bill payment,1396,Expense,Bills,Electricity Board
+10608,2025-10-19,UPI payment for Decathlon sports gear,2567,Expense,Shopping,Decathlon
+10465,2025-01-24,Auto-debit for Nykaa personal care order,2246,Expense,Shopping,Nykaa
+11261,2026-09-28,Electricity bill payment,649,Expense,Bills,Electricity Board
+10019,2026-07-04,Paid via wallet for BookMyShow concert tickets,1658,Expense,Entertainment,BookMyShow
+10424,2025-02-13,UPI payment for Dominos pizza night after work,841,Expense,Food,Dominos
+11287,2025-05-12,Swiggy dinner order weekend treat,480,Expense,Food,Swiggy
+10286,2026-09-27,UPI payment for Blinkit groceries and snacks,830,Expense,Food,Blinkit
+10429,2026-01-06,Card payment for Ola cab ride,135,Expense,Transport,Ola
+11215,2026-09-12,Auto-debit for Blinkit groceries and snacks,808,Expense,Food,Blinkit
+10486,2026-01-13,UPI payment for Haldirams family dinner,685,Expense,Food,Haldirams
+11282,2025-01-20,Online payment for Birthday gift purchase,1945,Expense,Other,Gift Shop
+10032,2025-07-02,Card payment for Swiggy dinner order,752,Expense,Food,Swiggy
+10627,2026-08-12,Auto-debit for Fastag toll recharge,277,Expense,Transport,Fastag
+10211,2024-12-23,Card payment for Wellness Forever pharmacy,804,Expense,Health,Wellness Forever
+10440,2026-07-06,Paid via wallet for Smaaash gaming evening,1019,Expense,Entertainment,Smaaash
+11381,2026-07-22,Online payment for House rent payment,9120,Expense,Bills,Rent
+10661,2025-01-04,Card payment for Udemy online course purchase,3235,Expense,Education,Udemy
+10215,2026-09-05,Online payment for House rent payment,13868,Expense,Bills,Rent
+11449,2025-10-05,Auto-debit for Haldirams family dinner,446,Expense,Food,Haldirams
+10527,2025-09-11,,3917,Expense,Other,ATM
+11122,2026-05-14,Auto-debit for Amazon technical books,609,Expense,Education,Amazon Books
+10327,2025-10-11,Auto-debit for Coffee and breakfast at cafe,461,Expense,Food,Local Cafe
+10479,2025-02-04,,548,Expense,Transport,Uber
+11478,2025-05-26,UPI payment for Swiggy dinner order,313,Expense,Food,Swiggy
+10189,2026-07-24,Paid via wallet for BookMyShow concert tickets,2101,Expense,Entertainment,BookMyShow
+11506,2025-04-29,Card payment for PVR movie tickets,870,Expense,Entertainment,PVR
+10342,2026-09-03,Card payment for Blinkit groceries and snacks,482,Expense,Food,Blinkit
+11168,2025-06-20,Auto-debit for Electricity bill payment,3038,Expense,Bills,Electricity Board
+10148,2025-09-15,Auto-debit for Miscellaneous household item,838,Expense,Other,Misc Store
+10487,2025-08-08,Stationery and notebooks,337,Expense,Education,Stationery Shop
+10361,2026-02-26,Auto-debit for Steam game purchase,1142,Expense,Entertainment,Steam
+10084,2025-09-21,Paid via wallet for Hotstar annual subscription,1005,Expense,Entertainment,Hotstar
+10766,2025-03-18,Card payment for NPTEL exam registration,1064,Expense,Education,NPTEL
+11058,2025-12-21,Swiggy dinner order weekend treat,576,Expense,Food,Swiggy
+10049,2026-07-30,Auto-debit for Fastag toll recharge,970,Expense,Transport,Fastag
+10469,2026-01-10,Blinkit groceries and snacks,778,Expense,Food,Blinkit
+11284,2026-02-15,Online payment for Swiggy dinner order,321,Expense,Food,Swiggy
+10156,2025-07-03,Auto-debit for Metro recharge,557,Expense,Transport,Delhi Metro
+11304,2026-09-25,UPI payment for Swiggy dinner order weekend treat,496,Expense,Food,Swiggy
+11222,2024-12-26,Online payment for Coffee and breakfast at cafe,157,Expense,Food,Local Cafe
+10924,2025-05-27,UPI payment for School tuition fee payment,5161,Expense,Education,School Fees
+11129,2026-09-14,Card payment for Croma gadget accessory,3164,Expense,Shopping,Croma
+11264,2026-07-31,Paid via wallet for Airtel postpaid bill,575,Expense,Bills,Airtel
+11318,2026-01-19,Dominos pizza night,801,Expense,Food,Dominos
+11593,2026-07-12,UPI payment for Fastag toll recharge,545,Expense,Transport,Fastag
+10621,2026-06-09,UPI payment for School tuition fee payment,5348,Expense,Education,School Fees
+10180,2026-03-09,Card payment for Myntra clothing purchase,3404,Expense,Shopping,Myntra
+11345,2025-11-22,Paid via wallet for Myntra clothing purchase,3138,Expense,Shopping,Myntra
+11236,2025-06-18,BigBasket grocery shopping,3686,Expense,Food,BigBasket
+11336,2025-07-29,Auto-debit for Croma gadget accessory,2802,Expense,Shopping,Croma
+10523,2025-09-15,Card payment for BigBasket grocery shopping after work,3322,Expense,Food,BigBasket
+10585,2025-12-29,,1096,Expense,Bills,Airtel
+10938,2025-04-24,,2178,Expense,Shopping,Flipkart
+10364,2026-05-04,UPI payment for Coffee and breakfast at cafe weekend treat,515,Expense,Food,Local Cafe
+10974,2025-12-02,Online payment for Jio fiber broadband bill,731,Expense,Bills,Jio
+10427,2026-05-27,UPI payment for Petrol refill at IndianOil,2613,Expense,Transport,IndianOil
+11262,2025-09-28,UPI payment for Croma gadget accessory,3342,Expense,Shopping,Croma
+11285,2026-07-27,Auto-debit for House rent payment,13814,Expense,Bills,Rent
+10347,2025-01-31,Online payment for Dominos pizza night,691,Expense,Food,Dominos
+11230,2026-08-19,UPI payment for Rapido bike taxi,58,Expense,Transport,Rapido
+11578,2026-06-22,Auto-debit for Decathlon sports gear,2294,Expense,Shopping,Decathlon
+10991,2025-12-16,Auto-debit for Amazon electronics purchase,5608,Expense,Shopping,Amazon
+10586,2026-01-03,Auto-debit for Swiggy dinner order,993,Expense,Food,Swiggy
+11451,2025-02-20,Card payment for Udemy online course purchase,1903,Expense,Education,Udemy
+11388,2026-01-12,Online payment for House rent payment,13123,Expense,Bills,Rent
+10844,2025-07-13,Paid via wallet for Wellness Forever pharmacy,169,Expense,Health,Wellness Forever
+10975,2026-07-02,Apollo Pharmacy medicines,193,Expense,Health,Apollo Pharmacy
+11592,2026-01-04,UPI payment for House rent payment,17303,Expense,Bills,Rent
+10244,2025-02-05,Auto-debit for Blinkit groceries and snacks,944,Expense,Food,Blinkit
+11188,2024-11-29,Auto-debit for BSNL landline bill,868,Expense,Bills,BSNL
+10313,2025-07-06,Paid via wallet for Dominos pizza night after work,703,Expense,Food,Dominos
+10436,2026-06-01,UPI payment for Fastag toll recharge,982,Expense,Transport,Fastag
+11526,2026-08-02,Fastag toll recharge,670,Expense,Transport,Fastag
+10622,2026-03-03,Online payment for Rapido bike taxi,126,Expense,Transport,Rapido
+10309,2026-08-20,Card payment for Water utility bill,778,Expense,Bills,Water Works
+10431,2024-11-07,Paid via wallet for Jio fiber broadband bill,1039,Expense,Bills,Jio
+10371,2025-11-20,School tuition fee payment,13050,Expense,Education,School Fees
+11421,2025-02-22,Card payment for 1mg health supplements,939,Expense,Health,1mg
+10182,2025-12-12,Auto-debit for Spotify premium subscription,410,Expense,Entertainment,Spotify
+10577,2026-05-08,Card payment for Post office charges,415,Expense,Other,Post Office
+11484,2025-08-13,Online payment for Zomato lunch order,426,Expense,Food,Zomato
+10787,2026-04-10,Card payment for Croma gadget accessory,1793,Expense,Shopping,Croma
+11544,2025-10-01,Paid via wallet for BigBasket grocery shopping,2743,Expense,Food,BigBasket
+10297,2026-03-21,Zomato lunch order,641,Expense,Food,Zomato
+10600,2025-02-09,UPI payment for PVR movie tickets,636,Expense,Entertainment,PVR
+10462,2025-03-24,UPI payment for Coursera specialization fee,2984,Expense,Education,Coursera
+11437,2026-05-14,Online payment for Uber ride to office,290,Expense,Transport,Uber
+11407,2025-09-16,Auto-debit for Zomato lunch order,596,Expense,Food,Zomato
+10378,2025-06-11,Uber ride to office,314,Expense,Transport,Uber
+10833,2024-11-10,Paid via wallet for BigBasket grocery shopping,3192,Expense,Food,BigBasket
+10127,2026-07-14,Auto-debit for Zomato lunch order,334,Expense,Food,Zomato
+10830,2026-05-07,UPI payment for LPG cylinder booking,876,Expense,Bills,Gas Agency
+11441,2025-12-21,Auto-debit for Metro recharge,418,Expense,Transport,Delhi Metro
+10356,2026-03-04,Card payment for Blinkit groceries and snacks,514,Expense,Food,Blinkit
+11428,2026-07-23,Swiggy dinner order after work,940,Expense,Food,Swiggy
+10210,2025-12-26,Card payment for LPG cylinder booking,1159,Expense,Bills,Gas Agency
+10141,2025-12-24,Card payment for Water utility bill,810,Expense,Bills,Water Works
+11157,2026-07-01,Swiggy dinner order,336,Expense,Food,Swiggy
+11076,2025-02-24,UPI payment for Hotstar annual subscription,478,Expense,Entertainment,Hotstar
+10967,2026-05-02,UPI payment for Uber ride to office,300,Expense,Transport,Uber
+11274,2025-01-25,Card payment for BigBasket grocery shopping,2238,Expense,Food,BigBasket
+10782,2025-08-10,Paid via wallet for Rapido bike taxi,55,Expense,Transport,Rapido
+10637,2026-03-31,Auto-debit for Electricity bill payment,1280,Expense,Bills,Electricity Board
+11536,2024-11-04,Online payment for Water utility bill,540,Expense,Bills,Water Works
+11220,2026-10-01,UPI payment for Airtel postpaid bill,666,Expense,Bills,Airtel
+10011,2025-04-25,Auto-debit for House rent payment,15066,Expense,Bills,Rent
+11321,2025-08-14,Auto-debit for PVR movie tickets,1109,Expense,Entertainment,PVR
+10283,2025-09-10,Paid via wallet for Uber ride to office,181,Expense,Transport,Uber
+10292,2025-08-20,Online payment for Hotstar annual subscription,1043,Expense,Entertainment,Hotstar
+10629,2025-04-04,UPI payment for Cult Fit gym membership,1996,Expense,Health,Cult Fit
+10616,2026-07-02,Auto-debit for Birthday gift purchase,2307,Expense,Other,Gift Shop
+10130,2025-04-27,Auto-debit for Electricity bill payment,2265,Expense,Bills,Electricity Board
+10324,2026-04-06,Paid via wallet for Myntra clothing purchase,3061,Expense,Shopping,Myntra
+10775,2026-05-18,Auto-debit for Coffee and breakfast at cafe,307,Expense,Food,Local Cafe
+10561,2026-06-24,Charity donation,1637,Expense,Other,Donation
+11361,2025-02-26,Card payment for Water utility bill,506,Expense,Bills,Water Works
+10576,2025-04-10,Blinkit groceries and snacks with friends,601,Expense,Food,Blinkit
+11595,2025-06-20,Card payment for Dominos pizza night after work,919,Expense,Food,Dominos
+11303,2026-03-21,Card payment for BigBasket grocery shopping weekend treat,968,Expense,Food,BigBasket
+10712,2026-05-05,Auto-debit for Uber ride to office,571,Expense,Transport,Uber
+10159,2025-10-06,Amazon electronics purchase,1663,Expense,Shopping,Amazon
+10655,2025-11-02,Paid via wallet for Zomato lunch order,556,Expense,Food,Zomato
+10517,2025-02-27,UPI payment for Uber ride to office,665,Expense,Transport,Uber
+11150,2025-05-12,Auto-debit for Zomato lunch order,291,Expense,Food,Zomato
+10196,2025-03-29,UPI payment for Coffee and breakfast at cafe,144,Expense,Food,Local Cafe
+11330,2026-06-19,Auto-debit for Airtel postpaid bill,947,Expense,Bills,Airtel
+11229,2026-05-15,Online payment for LPG cylinder booking,754,Expense,Bills,Gas Agency
+10411,2025-02-06,Auto-debit for Practo lab test booking,2181,Expense,Health,Practo
+10097,2025-10-01,Card payment for Dominos pizza night,628,Expense,Food,Dominos
+10665,2026-07-21,Fastag toll recharge,1238,Expense,Transport,Fastag
+10632,2025-08-08,UPI payment for Charity donation,1143,Expense,Other,Donation
+10157,2026-02-28,Online payment for Fastag toll recharge,847,Expense,Transport,Fastag
+10420,2025-10-31,Auto-debit for BSNL landline bill,937,Expense,Bills,BSNL
+10728,2025-08-25,Online payment for Doctor consultation fee,970,Expense,Health,Dr Mehta
+10478,2026-08-05,Paid via wallet for Water utility bill,267,Expense,Bills,Water Works
+10695,2026-09-12,Decathlon sports gear,3566,Expense,Shopping,Decathlon
+10988,2025-09-29,Paid via wallet for Blinkit groceries and snacks,831,Expense,Food,Blinkit
+11050,2026-03-09,BigBasket grocery shopping,3632,Expense,Food,BigBasket
+10448,2026-02-10,UPI payment for Practo lab test booking,597,Expense,Health,Practo
+10705,2026-05-04,Paid via wallet for Decathlon sports gear,2562,Expense,Shopping,Decathlon
+10179,2026-05-07,Card payment for Petrol refill at IndianOil,816,Expense,Transport,IndianOil
+10391,2025-05-29,Paid via wallet for Post office charges,520,Expense,Other,Post Office
+10579,2025-01-29,Card payment for 1mg health supplements,244,Expense,Health,1mg
+11385,2026-06-02,UPI payment for Blinkit groceries and snacks with friends,1099,Expense,Food,Blinkit
+10778,2025-12-16,Auto-debit for Swiggy dinner order,935,Expense,Food,Swiggy
+11331,2025-06-28,Card payment for Hotstar annual subscription,1304,Expense,Entertainment,Hotstar
+11134,2026-04-22,Card payment for Zomato lunch order weekend treat,493,Expense,Food,Zomato
+11234,2025-03-17,Card payment for Myntra clothing purchase,2604,Expense,Shopping,Myntra
+10723,2024-11-12,Auto-debit for Fastag toll recharge,1183,Expense,Transport,Fastag
+11001,2025-01-31,Auto-debit for School tuition fee payment,11332,Expense,Education,School Fees
+11380,2024-11-21,Card payment for Flipkart home essentials,2321,Expense,Shopping,Flipkart
+10902,2025-08-18,UPI payment for Competitive exam coaching fee,1637,Expense,Education,Coaching Center
+11079,2025-04-11,Blinkit groceries and snacks,387,Expense,Food,Blinkit
+10746,2025-08-08,Online payment for Rapido bike taxi,344,Expense,Transport,Rapido
+10295,2025-04-11,Online payment for LPG cylinder booking,1237,Expense,Bills,Gas Agency
+10618,2026-08-30,Card payment for Metro recharge,231,Expense,Transport,Delhi Metro
+11006,2025-11-04,Paid via wallet for Water utility bill,257,Expense,Bills,Water Works
+10089,2025-12-23,Card payment for Ola cab ride,397,Expense,Transport,Ola
+10042,2024-12-30,Auto-debit for Spotify premium subscription,161,Expense,Entertainment,Spotify
+11556,2024-12-06,Auto-debit for Blinkit groceries and snacks,1558,Expense,Food,Blinkit
+10132,2025-06-28,Card payment for House rent payment,14332,Expense,Bills,Rent
+10945,2025-05-09,UPI payment for LPG cylinder booking,1112,Expense,Bills,Gas Agency
+10994,2026-06-11,Paid via wallet for Flipkart home essentials,1384,Expense,Shopping,Flipkart
+11062,2025-09-11,Airtel postpaid bill,467,Expense,Bills,Airtel
+11491,2025-01-01,UPI payment for BigBasket grocery shopping,2847,Expense,Food,BigBasket
+11141,2025-01-08,Auto-debit for Haldirams family dinner,1028,Expense,Food,Haldirams
+10165,2025-02-11,Paid via wallet for Amazon electronics purchase,5755,Expense,Shopping,Amazon
+10291,2025-03-01,Card payment for BookMyShow concert tickets,1807,Expense,Entertainment,BookMyShow
+11524,2025-05-06,Auto-debit for Zomato lunch order,584,Expense,Food,Zomato
+10678,2025-12-30,Decathlon sports gear,1243,Expense,Shopping,Decathlon
+10349,2025-12-12,Paid via wallet for 1mg health supplements,1465,Expense,Health,1mg
+10572,2026-03-06,Auto-debit for City Hospital consultation,1904,Expense,Health,City Hospital
+11562,2025-12-06,Paid via wallet for DMart monthly household shopping,4967,Expense,Shopping,DMart
+11517,2025-11-29,Paid via wallet for Apollo Pharmacy medicines,325,Expense,Health,Apollo Pharmacy
+10786,2026-04-03,Competitive exam coaching fee,1408,Expense,Education,Coaching Center
+11408,2026-05-09,UPI payment for Birthday gift purchase,1178,Expense,Other,Gift Shop
+11277,2025-02-05,Paid via wallet for Competitive exam coaching fee,2244,Expense,Education,Coaching Center
+10793,2025-01-17,Auto-debit for Petrol refill at IndianOil,2416,Expense,Transport,IndianOil
+10459,2025-09-17,Steam game purchase,1590,Expense,Entertainment,Steam
+10376,2024-11-17,UPI payment for Netflix monthly subscription,697,Expense,Entertainment,Netflix
+10334,2025-01-03,Online payment for BookMyShow concert tickets,2555,Expense,Entertainment,BookMyShow
+11095,2024-11-25,Paid via wallet for BigBasket grocery shopping,3269,Expense,Food,BigBasket
+11420,2025-02-12,Ola cab ride,132,Expense,Transport,Ola
+11174,2026-06-19,Auto-debit for BigBasket grocery shopping,2416,Expense,Food,BigBasket
+10808,2025-11-26,UPI payment for Smaaash gaming evening,825,Expense,Entertainment,Smaaash
+11384,2025-04-24,Auto-debit for Decathlon sports gear,1690,Expense,Shopping,Decathlon
+11493,2025-08-12,Card payment for Water utility bill,619,Expense,Bills,Water Works
+10670,2026-05-17,Airtel postpaid bill,624,Expense,Bills,Airtel
+10329,2026-08-07,Uber ride to office,692,Expense,Transport,Uber
+11530,2025-07-31,Paid via wallet for Haldirams family dinner,502,Expense,Food,Haldirams
+10319,2026-05-04,BSNL landline bill,719,Expense,Bills,BSNL
+11237,2025-01-31,Paid via wallet for Stationery and notebooks,440,Expense,Education,Stationery Shop
+11092,2025-02-09,Paid via wallet for Netflix monthly subscription,458,Expense,Entertainment,Netflix
+10168,2025-07-05,Paid via wallet for Coffee and breakfast at cafe,591,Expense,Food,Local Cafe
+10013,2024-12-28,UPI payment for Nykaa personal care order,1172,Expense,Shopping,Nykaa
+10172,2025-02-18,UPI payment for 1mg health supplements,2143,Expense,Health,1mg
+10261,2025-03-31,Paid via wallet for Zomato lunch order with friends,458,Expense,Food,Zomato
+10942,2026-05-11,Netflix monthly subscription,565,Expense,Entertainment,Netflix
+10995,2026-01-30,UPI payment for Coffee and breakfast at cafe,367,Expense,Food,Local Cafe
+11324,2025-12-05,Online payment for PVR movie tickets,419,Expense,Entertainment,PVR
+10139,2024-12-12,UPI payment for Birthday gift purchase,1704,Expense,Other,Gift Shop
+10550,2025-05-04,IRCTC train ticket booking,1463,Expense,Transport,IRCTC
+10745,2026-02-09,Haldirams family dinner weekend treat,974,Expense,Food,Haldirams
+11573,2026-01-30,Card payment for Practo lab test booking,1258,Expense,Health,Practo
+11286,2025-09-06,Rapido bike taxi,347,Expense,Transport,Rapido
+10559,2025-09-28,Ola cab ride,664,Expense,Transport,Ola
+10140,2026-06-23,Paid via wallet for Nykaa personal care order,1224,Expense,Shopping,Nykaa
+11405,2026-06-10,UPI payment for Steam game purchase,1669,Expense,Entertainment,Steam
+11008,2025-01-26,UPI payment for Practo lab test booking,1571,Expense,Health,Practo
+10225,2025-11-25,Auto-debit for BigBasket grocery shopping,2363,Expense,Food,BigBasket
+10669,2026-03-25,Online payment for Decathlon sports gear,2435,Expense,Shopping,Decathlon
+10410,2025-01-24,Paid via wallet for Amazon electronics purchase,4928,Expense,Shopping,Amazon
+10326,2026-07-21,Card payment for Croma gadget accessory,3275,Expense,Shopping,Croma
+10941,2024-11-04,Auto-debit for Airtel postpaid bill,1381,Expense,Bills,Airtel
+10300,2025-01-15,Paid via wallet for Apollo Pharmacy medicines,373,Expense,Health,Apollo Pharmacy
+11109,2025-04-01,Paid via wallet for ATM cash withdrawal,953,Expense,Other,ATM
+10842,2025-03-30,PVR movie tickets,446,Expense,Entertainment,PVR
+10765,2025-10-25,Auto-debit for Haldirams family dinner,1274,Expense,Food,Haldirams
+11494,2025-12-30,Online payment for BSNL landline bill,378,Expense,Bills,BSNL
+10194,2025-03-09,Auto-debit for Airtel postpaid bill,433,Expense,Bills,Airtel
+11007,2025-01-13,Online payment for Haldirams family dinner weekend treat,1225,Expense,Food,Haldirams
+10574,2025-04-24,Paid via wallet for Dominos pizza night with friends,1020,Expense,Food,Dominos
+10504,2025-01-14,Flipkart home essentials,4829,Expense,Shopping,Flipkart
+10606,2026-02-19,Auto-debit for Stationery and notebooks,218,Expense,Education,Stationery Shop
+11362,2024-11-30,Paid via wallet for BigBasket grocery shopping,1825,Expense,Food,BigBasket
+11439,2026-10-01,Card payment for Rapido bike taxi,142,Expense,Transport,Rapido
+10004,2025-04-13,Online payment for Coffee and breakfast at cafe,304,Expense,Food,Local Cafe
+10922,2025-11-18,UPI payment for Haldirams family dinner,1437,Expense,Food,Haldirams
+10468,2025-11-11,Auto-debit for Swiggy dinner order,490,Expense,Food,Swiggy
+10322,2025-08-14,Auto-debit for Petrol refill at IndianOil,1919,Expense,Transport,IndianOil
+10006,2024-12-15,Online payment for Haldirams family dinner,874,Expense,Food,Haldirams
+10223,2024-11-08,UPI payment for Ola cab ride,325,Expense,Transport,Ola
+10548,2026-08-08,Auto-debit for Nykaa personal care order,2381,Expense,Shopping,Nykaa
+11579,2025-06-01,Online payment for Smaaash gaming evening,1551,Expense,Entertainment,Smaaash
+10040,2025-12-05,Card payment for Apollo Pharmacy medicines,387,Expense,Health,Apollo Pharmacy
+10543,2026-02-16,NPTEL exam registration,1177,Expense,Education,NPTEL
+10243,2026-09-27,Auto-debit for Metro recharge,296,Expense,Transport,Delhi Metro
+10137,2025-09-27,Auto-debit for Croma gadget accessory,555,Expense,Shopping,Croma
+11416,2025-05-30,Paid via wallet for Smaaash gaming evening,1067,Expense,Entertainment,Smaaash
+11272,2026-08-08,Paid via wallet for Smaaash gaming evening,905,Expense,Entertainment,Smaaash
+11570,2025-12-19,,3005,Expense,Transport,IndianOil
+11525,2025-05-07,UPI payment for Decathlon sports gear,1256,Expense,Shopping,Decathlon
+11594,2025-12-22,Swiggy dinner order,715,Expense,Food,Swiggy
+11143,2025-07-24,UPI payment for City Hospital consultation,2201,Expense,Health,City Hospital
+11531,2025-10-18,Card payment for Petrol refill at IndianOil,1430,Expense,Transport,IndianOil
+11469,2026-09-23,Online payment for DMart monthly household shopping,1024,Expense,Shopping,DMart
+10582,2025-12-02,UPI payment for Nykaa personal care order,977,Expense,Shopping,Nykaa
+11586,2024-12-16,UPI payment for LPG cylinder booking,735,Expense,Bills,Gas Agency
+10662,2026-06-14,Online payment for Airtel postpaid bill,1080,Expense,Bills,Airtel
+11241,2026-03-22,Paid via wallet for Haldirams family dinner with friends,1481,Expense,Food,Haldirams
+11492,2025-07-02,Online payment for Ola cab ride,319,Expense,Transport,Ola
+10377,2026-09-20,Online payment for Swiggy dinner order,697,Expense,Food,Swiggy
+10315,2026-06-15,Online payment for Fastag toll recharge,1295,Expense,Transport,Fastag
+10443,2026-08-25,Auto-debit for Zomato lunch order weekend treat,596,Expense,Food,Zomato
+10320,2025-11-10,Paid via wallet for Cult Fit gym membership,1047,Expense,Health,Cult Fit
+11306,2026-05-25,Card payment for Myntra clothing purchase,3941,Expense,Shopping,Myntra
+10760,2026-04-01,Online payment for Ola cab ride,143,Expense,Transport,Ola
+10910,2024-12-01,Auto-debit for Water utility bill,857,Expense,Bills,Water Works
+11213,2025-11-08,Online payment for Uber ride to office,605,Expense,Transport,Uber
+10425,2025-01-31,Card payment for Croma gadget accessory,2001,Expense,Shopping,Croma
+10554,2025-04-27,UPI payment for Post office charges,249,Expense,Other,Post Office
+10595,2025-02-11,Zomato lunch order,332,Expense,Food,Zomato
+10369,2025-08-21,Paid via wallet for Udemy online course purchase,3591,Expense,Education,Udemy
+11189,2026-06-21,Haldirams family dinner,1109,Expense,Food,Haldirams
+11203,2026-02-22,Card payment for Flipkart home essentials,2876,Expense,Shopping,Flipkart
+11305,2025-06-21,Swiggy dinner order,453,Expense,Food,Swiggy
+10713,2025-06-07,Online payment for Swiggy dinner order,464,Expense,Food,Swiggy
+10228,2024-11-22,Card payment for Nykaa personal care order,1092,Expense,Shopping,Nykaa
+10812,2026-08-07,Zomato lunch order,720,Expense,Food,Zomato
+10931,2025-08-20,Paid via wallet for BigBasket grocery shopping after work,1647,Expense,Food,BigBasket
+11280,2025-09-01,Card payment for Apollo Pharmacy medicines,365,Expense,Health,Apollo Pharmacy
+10987,2025-11-08,Paid via wallet for Coursera specialization fee,4372,Expense,Education,Coursera
+10067,2025-02-27,Card payment for Decathlon sports gear,3242,Expense,Shopping,Decathlon
+10394,2025-05-28,Card payment for Blinkit groceries and snacks,1023,Expense,Food,Blinkit
+10580,2024-11-27,UPI payment for Practo lab test booking,1506,Expense,Health,Practo
+10025,2025-11-07,Card payment for Competitive exam coaching fee,3094,Expense,Education,Coaching Center
+10212,2025-04-08,Online payment for Electricity bill payment,854,Expense,Bills,Electricity Board
+11243,2025-06-30,Auto-debit for Flipkart home essentials,721,Expense,Shopping,Flipkart
+11430,2026-03-22,Paid via wallet for Blinkit groceries and snacks,845,Expense,Food,Blinkit
+10537,2025-09-03,Card payment for PVR movie tickets,640,Expense,Entertainment,PVR
+11290,2025-07-07,UPI payment for Post office charges,61,Expense,Other,Post Office
+10753,2026-06-11,Auto-debit for Water utility bill,143,Expense,Bills,Water Works
+10086,2025-07-12,Online payment for Stationery and notebooks,636,Expense,Education,Stationery Shop
+11543,2026-09-07,Online payment for Croma gadget accessory,1184,Expense,Shopping,Croma
+10273,2026-09-04,Online payment for PVR movie tickets,1153,Expense,Entertainment,PVR
+11042,2025-12-03,Card payment for Swiggy dinner order,408,Expense,Food,Swiggy
+10899,2024-11-24,Card payment for Fastag toll recharge,320,Expense,Transport,Fastag
+10813,2025-07-22,Card payment for Metro recharge,262,Expense,Transport,Delhi Metro
+11454,2025-05-30,UPI payment for Swiggy dinner order,895,Expense,Food,Swiggy
+10631,2025-10-07,Online payment for Rapido bike taxi,94,Expense,Transport,Rapido
+11104,2026-09-28,,658,Expense,Entertainment,PVR
+11504,2026-01-18,UPI payment for Petrol refill at IndianOil,1594,Expense,Transport,IndianOil
+10506,2026-01-08,Online payment for Nykaa personal care order,2161,Expense,Shopping,Nykaa
+10274,2024-12-16,Card payment for Coffee and breakfast at cafe,465,Expense,Food,Local Cafe
+10911,2026-09-04,UPI payment for Coursera specialization fee,1645,Expense,Education,Coursera
+10363,2026-06-01,Croma gadget accessory,2586,Expense,Shopping,Croma
+10623,2026-05-26,UPI payment for Metro recharge,520,Expense,Transport,Delhi Metro
+10003,2026-08-28,Online payment for Coffee and breakfast at cafe,124,Expense,Food,Local Cafe
+10007,2026-08-06,Auto-debit for BigBasket grocery shopping,868,Expense,Food,BigBasket
+10312,2025-10-20,Paid via wallet for Electricity bill payment,3015,Expense,Bills,Electricity Board
+11089,2025-07-11,UPI payment for DMart monthly household shopping,2412,Expense,Shopping,DMart
+11462,2025-09-01,Paid via wallet for Water utility bill,445,Expense,Bills,Water Works
+10666,2026-03-23,UPI payment for Zomato lunch order after work,532,Expense,Food,Zomato
+10365,2025-02-02,Auto-debit for Nykaa personal care order,815,Expense,Shopping,Nykaa
+11589,2026-02-11,Petrol refill at IndianOil,1825,Expense,Transport,IndianOil
+10216,2025-10-14,Card payment for Ola cab ride,274,Expense,Transport,Ola
+10927,2026-05-04,Auto-debit for IRCTC train ticket booking,2559,Expense,Transport,IRCTC
+10028,2025-06-05,Auto-debit for Coffee and breakfast at cafe,549,Expense,Food,Local Cafe
+11156,2026-03-11,Paid via wallet for Decathlon sports gear,3204,Expense,Shopping,Decathlon
+11002,2025-08-29,Coffee and breakfast at cafe,283,Expense,Food,Local Cafe
+11475,2025-06-10,Online payment for Dominos pizza night weekend treat,477,Expense,Food,Dominos
+11466,2025-06-11,Paid via wallet for Nykaa personal care order,2615,Expense,Shopping,Nykaa
+10639,2025-03-18,Card payment for Steam game purchase,1326,Expense,Entertainment,Steam
+10859,2025-07-28,Auto-debit for Coffee and breakfast at cafe,188,Expense,Food,Local Cafe
+10719,2025-08-24,Online payment for Airtel postpaid bill,721,Expense,Bills,Airtel
+10692,2025-01-03,Online payment for Dominos pizza night,846,Expense,Food,Dominos
+10951,2025-10-04,Auto-debit for Ola cab ride,192,Expense,Transport,Ola
+10625,2025-06-17,Online payment for Amazon technical books,1187,Expense,Education,Amazon Books
+10980,2025-08-18,Auto-debit for Metro recharge,255,Expense,Transport,Delhi Metro
+10257,2026-01-26,Paid via wallet for Coursera specialization fee,2656,Expense,Education,Coursera
+10026,2025-01-27,Online payment for Zomato lunch order,896,Expense,Food,Zomato
+10337,2025-07-29,Auto-debit for Hotstar annual subscription,1307,Expense,Entertainment,Hotstar
+10573,2024-12-05,Card payment for House rent payment,8973,Expense,Bills,Rent
+10048,2025-09-04,Paid via wallet for Metro recharge,289,Expense,Transport,Delhi Metro
+10107,2025-11-06,Online payment for BigBasket grocery shopping,2459,Expense,Food,BigBasket
+10350,2024-12-09,Blinkit groceries and snacks,1776,Expense,Food,Blinkit
+10056,2025-03-14,Online payment for BSNL landline bill,397,Expense,Bills,BSNL
+11293,2026-03-15,Paid via wallet for House rent payment,12226,Expense,Bills,Rent
+10214,2026-05-29,Auto-debit for Steam game purchase,746,Expense,Entertainment,Steam
+10121,2024-11-15,Online payment for City Hospital consultation,1090,Expense,Health,City Hospital
+11005,2026-05-13,UPI payment for House rent payment,10621,Expense,Bills,Rent
+10839,2026-05-02,Myntra clothing purchase,498,Expense,Shopping,Myntra
+10073,2026-05-22,UPI payment for Petrol refill at IndianOil,1411,Expense,Transport,IndianOil
+11396,2025-10-08,Auto-debit for Zomato lunch order,918,Expense,Food,Zomato
+10894,2026-06-13,Metro recharge,403,Expense,Transport,Delhi Metro
+10821,2024-11-24,UPI payment for Water utility bill,387,Expense,Bills,Water Works
+10046,2026-07-28,Coffee and breakfast at cafe,259,Expense,Food,Local Cafe
+11435,2026-03-25,Card payment for DMart monthly household shopping,2825,Expense,Shopping,DMart
+10524,2026-07-31,UPI payment for Zomato lunch order,453,Expense,Food,Zomato
+11209,2026-01-21,Paid via wallet for PVR movie tickets,871,Expense,Entertainment,PVR
+10906,2025-01-30,UPI payment for Dominos pizza night after work,830,Expense,Food,Dominos
+10999,2025-05-20,UPI payment for Myntra clothing purchase,2101,Expense,Shopping,Myntra
+11158,2025-02-07,Udemy online course purchase,676,Expense,Education,Udemy
+10534,2025-06-01,Paid via wallet for DMart monthly household shopping,1358,Expense,Shopping,DMart
+11218,2025-06-08,Card payment for BookMyShow concert tickets,766,Expense,Entertainment,BookMyShow
+10604,2026-04-21,Auto-debit for Blinkit groceries and snacks with friends,821,Expense,Food,Blinkit
+10466,2025-06-19,Auto-debit for Haldirams family dinner,646,Expense,Food,Haldirams
+11199,2026-04-28,Paid via wallet for Dominos pizza night,627,Expense,Food,Dominos
+10789,2026-02-13,Online payment for BSNL landline bill,440,Expense,Bills,BSNL
+11371,2025-03-24,Online payment for Swiggy dinner order,490,Expense,Food,Swiggy
+10890,2025-03-16,Card payment for BigBasket grocery shopping weekend treat,1435,Expense,Food,BigBasket
+11053,2025-04-30,Auto-debit for Wellness Forever pharmacy,1221,Expense,Health,Wellness Forever
+10061,2025-07-01,UPI payment for Cult Fit gym membership,3383,Expense,Health,Cult Fit
+11117,2026-05-03,Card payment for Flipkart home essentials,2985,Expense,Shopping,Flipkart
+10093,2025-08-07,Paid via wallet for Croma gadget accessory,3796,Expense,Shopping,Croma
+10667,2025-06-17,Auto-debit for Metro recharge,425,Expense,Transport,Delhi Metro
+11379,2024-11-09,City Hospital consultation,1968,Expense,Health,City Hospital
+10195,2025-06-10,UPI payment for Haldirams family dinner,1383,Expense,Food,Haldirams
+10281,2026-04-16,Card payment for Post office charges,360,Expense,Other,Post Office
+10696,2025-09-17,Auto-debit for School tuition fee payment,7524,Expense,Education,School Fees
+10360,2025-04-06,Paid via wallet for Ola cab ride,190,Expense,Transport,Ola
+10520,2025-09-26,UPI payment for Hotstar annual subscription,1209,Expense,Entertainment,Hotstar
+10933,2026-06-23,Online payment for Nykaa personal care order,1292,Expense,Shopping,Nykaa
+11294,2026-03-15,UPI payment for Croma gadget accessory,3683,Expense,Shopping,Croma
+10183,2025-03-07,Paid via wallet for Fastag toll recharge,569,Expense,Transport,Fastag
+11112,2026-04-17,Online payment for Uber ride to office,155,Expense,Transport,Uber
+11108,2025-05-03,Card payment for School tuition fee payment,3350,Expense,Education,School Fees
+10111,2024-11-30,Paid via wallet for Steam game purchase,1462,Expense,Entertainment,Steam
+11545,2026-09-18,,1127,Expense,Food,Dominos
+10043,2026-06-22,Paid via wallet for Netflix monthly subscription,566,Expense,Entertainment,Netflix
+10747,2025-11-23,Card payment for IRCTC train ticket booking,1598,Expense,Transport,IRCTC
+10126,2026-05-31,Card payment for House rent payment,6043,Expense,Bills,Rent
+10205,2025-02-26,Online payment for IRCTC train ticket booking,1487,Expense,Transport,IRCTC
+10943,2026-03-03,Paid via wallet for Water utility bill,331,Expense,Bills,Water Works
+10053,2025-02-27,Udemy online course purchase,2992,Expense,Education,Udemy
+11206,2025-12-26,Card payment for Blinkit groceries and snacks,1448,Expense,Food,Blinkit
+10546,2026-08-25,Card payment for Apollo Pharmacy medicines,1410,Expense,Health,Apollo Pharmacy
+10069,2025-05-14,Card payment for Croma gadget accessory,987,Expense,Shopping,Croma
+10508,2025-04-09,Auto-debit for IRCTC train ticket booking,2894,Expense,Transport,IRCTC
+11252,2025-11-05,Paid via wallet for Post office charges,523,Expense,Other,Post Office
+10989,2025-04-24,Card payment for Swiggy dinner order,533,Expense,Food,Swiggy
+10862,2026-07-21,Card payment for Blinkit groceries and snacks,960,Expense,Food,Blinkit
+10184,2026-08-16,Card payment for Rapido bike taxi,255,Expense,Transport,Rapido
+10138,2026-06-13,Auto-debit for Uber ride to office,270,Expense,Transport,Uber
+10797,2026-09-24,Online payment for Fastag toll recharge,374,Expense,Transport,Fastag
+10133,2025-05-22,Paid via wallet for Hotstar annual subscription,1180,Expense,Entertainment,Hotstar
+10081,2025-04-01,Online payment for Blinkit groceries and snacks,769,Expense,Food,Blinkit
+11300,2026-01-01,Online payment for Dominos pizza night,971,Expense,Food,Dominos
+10106,2026-08-26,Card payment for Petrol refill at IndianOil,1774,Expense,Transport,IndianOil
+11247,2026-07-14,Online payment for Zomato lunch order,489,Expense,Food,Zomato
+10542,2025-03-12,LIC insurance premium,5663,Expense,Other,LIC
+10843,2025-05-16,Card payment for Petrol refill at IndianOil,689,Expense,Transport,IndianOil
+10481,2025-02-04,Online payment for Uber ride to office,691,Expense,Transport,Uber
+10166,2024-12-28,Card payment for Dominos pizza night,971,Expense,Food,Dominos
+10249,2025-02-04,Online payment for Practo lab test booking,3030,Expense,Health,Practo
+10308,2025-06-04,Auto-debit for Blinkit groceries and snacks,1171,Expense,Food,Blinkit
+10447,2025-01-27,Uber ride to office,364,Expense,Transport,Uber
+10856,2025-07-15,Blinkit groceries and snacks,858,Expense,Food,Blinkit
+10335,2026-03-05,Auto-debit for Zomato lunch order,681,Expense,Food,Zomato
+10940,2026-01-31,Card payment for Netflix monthly subscription,439,Expense,Entertainment,Netflix
+10098,2025-01-23,Paid via wallet for Fastag toll recharge,1172,Expense,Transport,Fastag
+10905,2025-11-25,Auto-debit for Haldirams family dinner,1651,Expense,Food,Haldirams
+11590,2026-05-03,UPI payment for Stationery and notebooks,400,Expense,Education,Stationery Shop
+10738,2026-05-07,Paid via wallet for Airtel postpaid bill,898,Expense,Bills,Airtel
+11263,2026-02-08,Online payment for BigBasket grocery shopping,3093,Expense,Food,BigBasket
+10966,2025-01-07,UPI payment for BSNL landline bill,993,Expense,Bills,BSNL
+10422,2025-01-24,Card payment for PVR movie tickets,1337,Expense,Entertainment,PVR
+10103,2025-12-12,Online payment for Competitive exam coaching fee,7280,Expense,Education,Coaching Center
+10435,2025-07-07,Card payment for Rapido bike taxi,278,Expense,Transport,Rapido
+10075,2026-01-15,Auto-debit for Decathlon sports gear,484,Expense,Shopping,Decathlon
+11443,2026-04-13,Auto-debit for Blinkit groceries and snacks,1247,Expense,Food,Blinkit
+10926,2025-11-25,Online payment for Decathlon sports gear,763,Expense,Shopping,Decathlon
+11160,2026-06-17,Card payment for Zomato lunch order,872,Expense,Food,Zomato
+11463,2025-05-03,Auto-debit for BSNL landline bill,823,Expense,Bills,BSNL
+10303,2025-06-19,Card payment for Myntra clothing purchase,1086,Expense,Shopping,Myntra
+11389,2026-01-17,Paid via wallet for House rent payment,8115,Expense,Bills,Rent
+11354,2026-06-17,Paid via wallet for Spotify premium subscription,416,Expense,Entertainment,Spotify
+11311,2025-02-10,UPI payment for Hotstar annual subscription,872,Expense,Entertainment,Hotstar
+10825,2025-08-18,Paid via wallet for School tuition fee payment,5161,Expense,Education,School Fees
+10763,2026-09-26,Online payment for Competitive exam coaching fee,8315,Expense,Education,Coaching Center
+10734,2025-09-09,Paid via wallet for Petrol refill at IndianOil,1555,Expense,Transport,IndianOil
+10389,2025-10-07,Card payment for Jio fiber broadband bill,1407,Expense,Bills,Jio
+10236,2025-08-09,Auto-debit for DMart monthly household shopping,2795,Expense,Shopping,DMart
+11335,2025-11-14,Online payment for Flipkart home essentials,2691,Expense,Shopping,Flipkart
+10268,2025-01-04,BigBasket grocery shopping,2525,Expense,Food,BigBasket
+10306,2025-04-07,UPI payment for Blinkit groceries and snacks,616,Expense,Food,Blinkit
+10904,2025-11-04,Metro recharge,444,Expense,Transport,Delhi Metro
+10118,2025-03-04,Online payment for Petrol refill at IndianOil,1067,Expense,Transport,IndianOil
+11299,2026-09-04,Paid via wallet for Amazon technical books,2000,Expense,Education,Amazon Books
+10674,2025-02-08,Online payment for Nykaa personal care order,1133,Expense,Shopping,Nykaa
+10250,2025-05-04,UPI payment for LPG cylinder booking,912,Expense,Bills,Gas Agency
+11169,2026-03-03,Online payment for Decathlon sports gear,2638,Expense,Shopping,Decathlon
+11575,2025-02-05,Auto-debit for LPG cylinder booking,1114,Expense,Bills,Gas Agency
+10072,2025-09-04,Auto-debit for House rent payment,18407,Expense,Bills,Rent
+10095,2026-05-01,BigBasket grocery shopping,3726,Expense,Food,BigBasket
+11102,2025-02-25,Online payment for Spotify premium subscription,373,Expense,Entertainment,Spotify
+10034,2025-10-29,Paid via wallet for Spotify premium subscription,161,Expense,Entertainment,Spotify
+10800,2025-06-16,Auto-debit for Decathlon sports gear,4006,Expense,Shopping,Decathlon
+11177,2025-03-18,BigBasket grocery shopping with friends,2140,Expense,Food,BigBasket
+11352,2026-03-03,Auto-debit for Airtel postpaid bill,1234,Expense,Bills,Airtel
+10449,2026-02-07,Card payment for Myntra clothing purchase,2319,Expense,Shopping,Myntra
+10446,2026-06-26,Online payment for Dominos pizza night,790,Expense,Food,Dominos
+10772,2026-05-27,Auto-debit for Decathlon sports gear,2516,Expense,Shopping,Decathlon
+10717,2026-09-21,DMart monthly household shopping,2429,Expense,Shopping,DMart
+11023,2025-07-26,Online payment for Hotstar annual subscription,980,Expense,Entertainment,Hotstar
+11226,2026-08-22,Paid via wallet for Zomato lunch order,828,Expense,Food,Zomato
+10001,2025-03-23,Online payment for Airtel postpaid bill,941,Expense,Bills,Airtel
+11323,2026-08-27,Paid via wallet for LPG cylinder booking,1232,Expense,Bills,Gas Agency
+11106,2026-04-30,Card payment for Cult Fit gym membership,2649,Expense,Health,Cult Fit
+10078,2025-06-29,Online payment for LPG cylinder booking,1061,Expense,Bills,Gas Agency
+10085,2026-05-16,Paid via wallet for House rent payment,17050,Expense,Bills,Rent
+11433,2025-03-18,Haldirams family dinner,1022,Expense,Food,Haldirams
+10083,2025-07-14,Blinkit groceries and snacks,802,Expense,Food,Blinkit
+10458,2026-09-21,Online payment for Fastag toll recharge,605,Expense,Transport,Fastag
+11088,2025-06-10,Auto-debit for Apollo Pharmacy medicines,966,Expense,Health,Apollo Pharmacy
+10677,2025-12-08,UPI payment for Ola cab ride,237,Expense,Transport,Ola
+11550,2025-05-12,Online payment for Swiggy dinner order,552,Expense,Food,Swiggy
+11186,2026-05-30,UPI payment for House rent payment,12946,Expense,Bills,Rent
+10437,2024-11-28,Online payment for LPG cylinder booking,935,Expense,Bills,Gas Agency
+10771,2025-12-12,UPI payment for Myntra clothing purchase,3446,Expense,Shopping,Myntra
+10870,2025-11-30,UPI payment for ATM cash withdrawal,901,Expense,Other,ATM
+10645,2026-01-05,Online payment for Blinkit groceries and snacks weekend treat,959,Expense,Food,Blinkit
+10863,2024-12-15,UPI payment for Airtel postpaid bill,530,Expense,Bills,Airtel
+11055,2025-05-14,UPI payment for Uber ride to office,604,Expense,Transport,Uber
+11038,2025-03-03,Coffee and breakfast at cafe,483,Expense,Food,Local Cafe
+11279,2025-05-03,UPI payment for Netflix monthly subscription,298,Expense,Entertainment,Netflix
+11400,2026-09-25,Coffee and breakfast at cafe,369,Expense,Food,Local Cafe
+10405,2025-02-18,Water utility bill,818,Expense,Bills,Water Works
+11399,2025-01-03,Paid via wallet for Fastag toll recharge,1039,Expense,Transport,Fastag
+11075,2025-06-13,Paid via wallet for BSNL landline bill,807,Expense,Bills,BSNL
+11278,2026-06-23,LPG cylinder booking,1179,Expense,Bills,Gas Agency
+10105,2026-06-03,Doctor consultation fee,1503,Expense,Health,Dr Mehta
+10610,2025-06-08,UPI payment for Ola cab ride,612,Expense,Transport,Ola
+11161,2026-06-07,Wellness Forever pharmacy,997,Expense,Health,Wellness Forever
+10689,2026-09-22,Online payment for Croma gadget accessory,4303,Expense,Shopping,Croma
+11054,2025-12-05,BigBasket grocery shopping,2280,Expense,Food,BigBasket
+10827,2026-05-08,Card payment for Metro recharge,462,Expense,Transport,Delhi Metro
+11227,2026-02-26,Online payment for Uber ride to office,682,Expense,Transport,Uber
+11048,2026-03-18,Paid via wallet for Water utility bill,553,Expense,Bills,Water Works
+10063,2025-07-13,Card payment for NPTEL exam registration,1676,Expense,Education,NPTEL
+10282,2025-05-04,Auto-debit for Hotstar annual subscription,826,Expense,Entertainment,Hotstar
+10853,2026-08-03,Electricity bill payment,4112,Expense,Bills,Electricity Board
+10779,2025-04-29,Online payment for IRCTC train ticket booking,604,Expense,Transport,IRCTC
+11497,2025-09-26,UPI payment for Jio fiber broadband bill,1332,Expense,Bills,Jio
+10239,2024-12-13,Paid via wallet for DMart monthly household shopping,4345,Expense,Shopping,DMart
+10224,2025-08-24,Card payment for Ola cab ride,559,Expense,Transport,Ola
+10146,2025-05-28,Card payment for Water utility bill,643,Expense,Bills,Water Works
+11503,2025-11-04,Paid via wallet for Fastag toll recharge,838,Expense,Transport,Fastag
+10374,2026-04-29,Paid via wallet for Post office charges,377,Expense,Other,Post Office
+11317,2026-04-14,Uber ride to office,411,Expense,Transport,Uber
+10119,2025-05-09,UPI payment for Swiggy dinner order after work,957,Expense,Food,Swiggy
+11392,2026-06-09,Petrol refill at IndianOil,837,Expense,Transport,IndianOil
+11205,2025-04-01,UPI payment for Netflix monthly subscription,510,Expense,Entertainment,Netflix
+10251,2025-03-21,UPI payment for Fastag toll recharge,645,Expense,Transport,Fastag
+11553,2026-09-11,Auto-debit for Rapido bike taxi,273,Expense,Transport,Rapido
+11296,2026-03-22,Auto-debit for Rapido bike taxi,175,Expense,Transport,Rapido
+11471,2026-09-18,Online payment for Swiggy dinner order,683,Expense,Food,Swiggy
+10010,2026-09-18,Card payment for Electricity bill payment,980,Expense,Bills,Electricity Board
+10450,2025-10-18,Online payment for Swiggy dinner order with friends,737,Expense,Food,Swiggy
+11245,2025-12-13,Online payment for Zomato lunch order after work,899,Expense,Food,Zomato
+11019,2026-06-01,Card payment for Blinkit groceries and snacks after work,1618,Expense,Food,Blinkit
+10709,2025-02-25,Paid via wallet for Electricity bill payment,1921,Expense,Bills,Electricity Board
+10256,2025-09-13,Paid via wallet for Smaaash gaming evening,1153,Expense,Entertainment,Smaaash
+10883,2025-06-11,Online payment for Metro recharge,138,Expense,Transport,Delhi Metro
+10594,2026-04-20,Paid via wallet for Udemy online course purchase,3120,Expense,Education,Udemy
+10390,2025-03-01,Online payment for ATM cash withdrawal,1345,Expense,Other,ATM
+11266,2024-12-27,Online payment for Swiggy dinner order weekend treat,787,Expense,Food,Swiggy
+11288,2026-05-06,UPI payment for Zomato lunch order after work,521,Expense,Food,Zomato
+10558,2026-07-22,UPI payment for Coffee and breakfast at cafe,343,Expense,Food,Local Cafe
+10909,2025-08-10,Jio fiber broadband bill,2228,Expense,Bills,Jio
+10925,2025-09-29,Paid via wallet for BigBasket grocery shopping,3000,Expense,Food,BigBasket
+11423,2026-01-19,Online payment for Coffee and breakfast at cafe with friends,736,Expense,Food,Local Cafe
+11118,2026-09-14,UPI payment for Zomato lunch order with friends,797,Expense,Food,Zomato
+10461,2026-05-05,Online payment for BigBasket grocery shopping,1837,Expense,Food,BigBasket
+10724,2026-07-04,Paid via wallet for 1mg health supplements,338,Expense,Health,1mg
+11028,2025-06-28,Paid via wallet for Rapido bike taxi,374,Expense,Transport,Rapido
+11485,2026-03-27,Zomato lunch order,530,Expense,Food,Zomato
+10145,2026-04-15,Card payment for LPG cylinder booking,852,Expense,Bills,Gas Agency
+10959,2025-09-12,Card payment for House rent payment,10938,Expense,Bills,Rent
+10502,2024-11-13,Card payment for Croma gadget accessory,791,Expense,Shopping,Croma
+10923,2025-12-24,Flipkart home essentials,1124,Expense,Shopping,Flipkart
+11175,2026-09-14,Auto-debit for Hotstar annual subscription,1420,Expense,Entertainment,Hotstar
+10740,2025-12-12,Card payment for 1mg health supplements,995,Expense,Health,1mg
+11488,2026-09-14,Paid via wallet for Haldirams family dinner with friends,1606,Expense,Food,Haldirams
+10869,2025-01-19,UPI payment for Uber ride to office,603,Expense,Transport,Uber
+10732,2025-06-15,Online payment for BookMyShow concert tickets,735,Expense,Entertainment,BookMyShow
+10540,2025-05-22,Paid via wallet for Haldirams family dinner,1412,Expense,Food,Haldirams
+10178,2025-03-15,Haldirams family dinner,1131,Expense,Food,Haldirams
+11555,2026-02-10,UPI payment for Dominos pizza night,1115,Expense,Food,Dominos
+10698,2026-07-11,UPI payment for House rent payment,11302,Expense,Bills,Rent
+11499,2025-04-27,Auto-debit for Jio fiber broadband bill,1554,Expense,Bills,Jio
+11121,2026-03-27,UPI payment for Amazon electronics purchase,6102,Expense,Shopping,Amazon
+11011,2026-03-26,Online payment for Ola cab ride,266,Expense,Transport,Ola
+11032,2025-02-09,Card payment for NPTEL exam registration,741,Expense,Education,NPTEL
+10938,2025-04-24,,2178,Expense,Shopping,Flipkart
+10008,2025-06-22,Card payment for Ola cab ride,392,Expense,Transport,Ola
+10998,2026-09-08,UPI payment for Stationery and notebooks,676,Expense,Education,Stationery Shop
+10668,2026-01-29,Auto-debit for Water utility bill,600,Expense,Bills,Water Works
+11424,2025-11-23,Online payment for 1mg health supplements,1364,Expense,Health,1mg
+11233,2026-07-02,Online payment for Birthday gift purchase,1559,Expense,Other,Gift Shop
+10358,2025-01-03,Online payment for Electricity bill payment,2774,Expense,Bills,Electricity Board
+10968,2025-09-12,Online payment for Water utility bill,244,Expense,Bills,Water Works
+10784,2026-05-27,Auto-debit for Airtel postpaid bill,957,Expense,Bills,Airtel
+10736,2025-01-18,Online payment for Coursera specialization fee,2137,Expense,Education,Coursera
+10330,2026-06-16,Auto-debit for Electricity bill payment,3956,Expense,Bills,Electricity Board
+11207,2025-08-21,Online payment for Stationery and notebooks,225,Expense,Education,Stationery Shop
+10971,2025-02-03,Paid via wallet for Haldirams family dinner,465,Expense,Food,Haldirams
+10953,2026-07-13,Online payment for Hotstar annual subscription,827,Expense,Entertainment,Hotstar
+11232,2026-04-13,Online payment for IRCTC train ticket booking,523,Expense,Transport,IRCTC
+11198,2025-02-03,Online payment for Coffee and breakfast at cafe,294,Expense,Food,Local Cafe
+10259,2026-03-08,Card payment for Spotify premium subscription,316,Expense,Entertainment,Spotify
+11334,2026-01-10,Paid via wallet for Haldirams family dinner with friends,834,Expense,Food,Haldirams
+11260,2026-01-01,Swiggy dinner order after work,681,Expense,Food,Swiggy
+10373,2025-06-17,Coffee and breakfast at cafe,278,Expense,Food,Local Cafe
+11182,2025-03-02,Paid via wallet for Haldirams family dinner,504,Expense,Food,Haldirams
+10415,2025-01-18,Card payment for Haldirams family dinner with friends,1425,Expense,Food,Haldirams
+10143,2026-02-09,Water utility bill,727,Expense,Bills,Water Works
+10526,2026-08-14,Online payment for BigBasket grocery shopping,811,Expense,Food,BigBasket
+11312,2025-05-26,Paid via wallet for Electricity bill payment,2659,Expense,Bills,Electricity Board
+10233,2025-04-06,Online payment for Zomato lunch order weekend treat,338,Expense,Food,Zomato
+11202,2026-08-05,Online payment for Decathlon sports gear,3234,Expense,Shopping,Decathlon
+11565,2026-03-10,Card payment for Rapido bike taxi,93,Expense,Transport,Rapido
+10441,2026-01-03,Auto-debit for LPG cylinder booking,1223,Expense,Bills,Gas Agency
+10532,2025-08-06,UPI payment for Decathlon sports gear,3363,Expense,Shopping,Decathlon
+11289,2025-04-06,Online payment for BigBasket grocery shopping,692,Expense,Food,BigBasket
+10227,2025-09-17,Auto-debit for Swiggy dinner order,518,Expense,Food,Swiggy
+11107,2025-01-07,UPI payment for Myntra clothing purchase,4249,Expense,Shopping,Myntra
+10229,2025-11-06,Coffee and breakfast at cafe,384,Expense,Food,Local Cafe
+11375,2026-07-17,Paid via wallet for Blinkit groceries and snacks with friends,561,Expense,Food,Blinkit
+11393,2025-01-16,UPI payment for LIC insurance premium,6005,Expense,Other,LIC
+10213,2025-11-12,Decathlon sports gear,1109,Expense,Shopping,Decathlon
+10886,2025-03-04,UPI payment for Fastag toll recharge,775,Expense,Transport,Fastag
+10080,2026-08-07,Auto-debit for BSNL landline bill,349,Expense,Bills,BSNL
+10149,2025-02-25,Paid via wallet for BigBasket grocery shopping,1163,Expense,Food,BigBasket
+10815,2025-10-30,Card payment for LPG cylinder booking,936,Expense,Bills,Gas Agency
+11036,2025-08-18,Card payment for Nykaa personal care order,1201,Expense,Shopping,Nykaa
+11041,2025-09-28,Card payment for Hotstar annual subscription,1601,Expense,Entertainment,Hotstar
+10672,2025-11-08,House rent payment,17293,Expense,Bills,Rent
+10169,2026-09-14,,2373,Expense,Food,BigBasket
+10556,2025-05-12,Paid via wallet for IRCTC train ticket booking,1703,Expense,Transport,IRCTC
+10058,2025-04-02,Auto-debit for Swiggy dinner order after work,1028,Expense,Food,Swiggy
+10134,2025-03-26,Zomato lunch order after work,723,Expense,Food,Zomato
+10934,2025-05-03,Paid via wallet for DMart monthly household shopping,2827,Expense,Shopping,DMart
+11365,2025-03-26,Card payment for Decathlon sports gear,2834,Expense,Shopping,Decathlon
+10824,2025-01-26,Online payment for Amazon electronics purchase,1331,Expense,Shopping,Amazon
+10505,2025-01-01,Paid via wallet for Airtel postpaid bill,527,Expense,Bills,Airtel
+11432,2025-11-22,Auto-debit for Flipkart home essentials,2189,Expense,Shopping,Flipkart
+10348,2025-04-29,Paid via wallet for Nykaa personal care order,1878,Expense,Shopping,Nykaa
+10387,2025-05-15,BigBasket grocery shopping,2500,Expense,Food,BigBasket
+11025,2025-12-28,Paid via wallet for BSNL landline bill,411,Expense,Bills,BSNL
+10895,2025-09-25,Card payment for BigBasket grocery shopping,1740,Expense,Food,BigBasket
+10829,2026-01-20,Auto-debit for House rent payment,17998,Expense,Bills,Rent
+11521,2025-08-03,Online payment for BSNL landline bill,916,Expense,Bills,BSNL
+10476,2025-08-11,Online payment for Birthday gift purchase,1054,Expense,Other,Gift Shop
+11125,2024-11-26,Paid via wallet for Coursera specialization fee,2967,Expense,Education,Coursera
+10653,2024-12-11,Card payment for Uber ride to office,159,Expense,Transport,Uber
+10173,2025-08-30,Metro recharge,412,Expense,Transport,Delhi Metro
+10039,2026-03-08,UPI payment for NPTEL exam registration,745,Expense,Education,NPTEL
+10714,2026-01-20,Online payment for Coffee and breakfast at cafe,622,Expense,Food,Local Cafe
+10091,2025-11-25,Paid via wallet for Udemy online course purchase,3533,Expense,Education,Udemy
+11559,2025-06-19,Online payment for Charity donation,540,Expense,Other,Donation
+10876,2025-07-05,Auto-debit for BookMyShow concert tickets,2091,Expense,Entertainment,BookMyShow
+11085,2025-08-15,UPI payment for Zomato lunch order after work,258,Expense,Food,Zomato
+11254,2025-04-04,,322,Expense,Transport,Ola
+11576,2025-09-02,Auto-debit for BigBasket grocery shopping after work,3620,Expense,Food,BigBasket
+10500,2026-08-24,Croma gadget accessory,1086,Expense,Shopping,Croma
+10339,2025-10-24,Auto-debit for House rent payment,14125,Expense,Bills,Rent
+10029,2026-08-28,Card payment for House rent payment,12157,Expense,Bills,Rent
+11069,2025-04-11,Haldirams family dinner,1745,Expense,Food,Haldirams
+11465,2025-08-08,Online payment for Amazon electronics purchase,2413,Expense,Shopping,Amazon
+10946,2026-09-15,Auto-debit for Dominos pizza night,454,Expense,Food,Dominos
+10170,2026-01-27,Card payment for Myntra clothing purchase,2746,Expense,Shopping,Myntra
+10913,2025-10-04,Paid via wallet for Water utility bill,948,Expense,Bills,Water Works
+10492,2025-02-13,Water utility bill,197,Expense,Bills,Water Works
+10954,2026-06-12,Auto-debit for IRCTC train ticket booking,2079,Expense,Transport,IRCTC
+11033,2025-07-06,Online payment for Water utility bill,504,Expense,Bills,Water Works
+10588,2026-04-14,Auto-debit for Stationery and notebooks,130,Expense,Education,Stationery Shop
+10751,2025-03-02,Online payment for Zomato lunch order after work,489,Expense,Food,Zomato
+10658,2024-12-31,UPI payment for BSNL landline bill,361,Expense,Bills,BSNL
+10235,2025-09-20,UPI payment for LPG cylinder booking,1107,Expense,Bills,Gas Agency
+10733,2026-09-27,Online payment for BookMyShow concert tickets,975,Expense,Entertainment,BookMyShow
+11183,2026-05-25,Online payment for Cult Fit gym membership,1563,Expense,Health,Cult Fit
+11316,2026-02-13,Auto-debit for BigBasket grocery shopping,1758,Expense,Food,BigBasket
+10935,2025-02-01,Card payment for House rent payment,20151,Expense,Bills,Rent
+11066,2025-06-07,Miscellaneous household item,526,Expense,Other,Misc Store
+10109,2026-06-30,Card payment for LPG cylinder booking,1207,Expense,Bills,Gas Agency
+11248,2026-04-01,Auto-debit for House rent payment,13394,Expense,Bills,Rent
+10569,2025-10-10,Paid via wallet for Swiggy dinner order with friends,929,Expense,Food,Swiggy
+10891,2026-03-29,Paid via wallet for Steam game purchase,935,Expense,Entertainment,Steam
+10948,2026-06-10,Auto-debit for LPG cylinder booking,1240,Expense,Bills,Gas Agency
+11049,2025-01-11,Auto-debit for Decathlon sports gear,4008,Expense,Shopping,Decathlon
+11086,2025-08-30,Auto-debit for Flipkart home essentials,3667,Expense,Shopping,Flipkart
+10885,2024-12-28,Card payment for Rapido bike taxi,271,Expense,Transport,Rapido
+11356,2026-04-25,Card payment for BigBasket grocery shopping,989,Expense,Food,BigBasket
+10851,2026-03-02,Online payment for Flipkart home essentials,426,Expense,Shopping,Flipkart
+10735,2025-08-15,UPI payment for Flipkart home essentials,2990,Expense,Shopping,Flipkart
+10718,2026-06-23,Nykaa personal care order,1650,Expense,Shopping,Nykaa
+10455,2026-05-04,UPI payment for Netflix monthly subscription,638,Expense,Entertainment,Netflix
+10265,2026-02-24,Paid via wallet for Haldirams family dinner,1286,Expense,Food,Haldirams
+10076,2025-06-07,Auto-debit for Electricity bill payment,1946,Expense,Bills,Electricity Board
+10445,2026-05-26,Auto-debit for Dominos pizza night,619,Expense,Food,Dominos
+10396,2025-06-24,Paid via wallet for Water utility bill,318,Expense,Bills,Water Works
+10177,2026-08-05,Online payment for Hotstar annual subscription,1437,Expense,Entertainment,Hotstar
+11043,2026-03-19,UPI payment for Fastag toll recharge,477,Expense,Transport,Fastag
+11406,2026-07-29,Paid via wallet for Electricity bill payment,1633,Expense,Bills,Electricity Board
+11329,2026-02-03,Card payment for Uber ride to office,639,Expense,Transport,Uber
+11231,2025-05-24,Online payment for BSNL landline bill,583,Expense,Bills,BSNL
+10596,2025-12-26,Card payment for Dominos pizza night,1307,Expense,Food,Dominos
+10062,2025-05-03,Online payment for Birthday gift purchase,700,Expense,Other,Gift Shop
+10873,2025-05-04,Auto-debit for Water utility bill,664,Expense,Bills,Water Works
+11201,2026-08-02,Auto-debit for Electricity bill payment,1112,Expense,Bills,Electricity Board
+11511,2025-05-18,Paid via wallet for Apollo Pharmacy medicines,928,Expense,Health,Apollo Pharmacy
+10279,2025-08-07,Fastag toll recharge,276,Expense,Transport,Fastag
+10037,2025-01-17,Paid via wallet for Zomato lunch order,363,Expense,Food,Zomato
+10663,2026-07-27,House rent payment,17428,Expense,Bills,Rent
+11455,2025-04-25,Card payment for DMart monthly household shopping,1131,Expense,Shopping,DMart
+11498,2025-05-17,Amazon electronics purchase,1027,Expense,Shopping,Amazon
+10978,2025-03-01,Card payment for IRCTC train ticket booking,1098,Expense,Transport,IRCTC
+10739,2026-06-27,Online payment for Jio fiber broadband bill,975,Expense,Bills,Jio
+10192,2025-05-14,Stationery and notebooks,318,Expense,Education,Stationery Shop
+10920,2025-08-01,Auto-debit for Swiggy dinner order,866,Expense,Food,Swiggy
+10457,2026-06-25,Charity donation,1396,Expense,Other,Donation
+10676,2025-12-25,Airtel postpaid bill,1169,Expense,Bills,Airtel
+10761,2026-07-23,Auto-debit for Flipkart home essentials,2952,Expense,Shopping,Flipkart
+11456,2025-03-13,Auto-debit for Cult Fit gym membership,2068,Expense,Health,Cult Fit
+10729,2025-10-05,Card payment for Swiggy dinner order weekend treat,446,Expense,Food,Swiggy
+10413,2026-05-11,Auto-debit for Uber ride to office,465,Expense,Transport,Uber
+11099,2024-12-27,Auto-debit for Blinkit groceries and snacks,477,Expense,Food,Blinkit
+10826,2024-12-06,Online payment for Jio fiber broadband bill,1131,Expense,Bills,Jio
+10617,2025-08-11,Online payment for Rapido bike taxi,77,Expense,Transport,Rapido
+10115,2024-11-18,House rent payment,14968,Expense,Bills,Rent
+10418,2025-01-17,Card payment for PVR movie tickets,368,Expense,Entertainment,PVR
+11535,2026-07-27,Online payment for Birthday gift purchase,2087,Expense,Other,Gift Shop
+10970,2025-09-06,UPI payment for Fastag toll recharge,1078,Expense,Transport,Fastag
+10605,2026-02-11,1mg health supplements,1462,Expense,Health,1mg
+11541,2025-01-29,Card payment for Hotstar annual subscription,816,Expense,Entertainment,Hotstar
+10090,2025-12-04,Auto-debit for DMart monthly household shopping,1293,Expense,Shopping,DMart
+10849,2025-02-24,UPI payment for Uber ride to office,542,Expense,Transport,Uber
+11228,2025-02-11,UPI payment for Decathlon sports gear,1866,Expense,Shopping,Decathlon
+11540,2026-04-17,Auto-debit for IRCTC train ticket booking,735,Expense,Transport,IRCTC
+10754,2025-03-31,Blinkit groceries and snacks with friends,1104,Expense,Food,Blinkit
+10499,2025-09-05,UPI payment for Hotstar annual subscription,394,Expense,Entertainment,Hotstar
+10012,2026-08-18,Online payment for Spotify premium subscription,238,Expense,Entertainment,Spotify
+10397,2025-10-12,Card payment for Jio fiber broadband bill,1333,Expense,Bills,Jio
+10285,2026-08-17,PVR movie tickets,999,Expense,Entertainment,PVR
+11067,2025-12-31,UPI payment for Electricity bill payment,662,Expense,Bills,Electricity Board
+10691,2025-05-24,Card payment for BigBasket grocery shopping,1189,Expense,Food,BigBasket
+11319,2026-08-09,Online payment for Blinkit groceries and snacks,519,Expense,Food,Blinkit
+11508,2025-05-14,Zomato lunch order weekend treat,589,Expense,Food,Zomato
+10690,2024-11-14,Auto-debit for Competitive exam coaching fee,3994,Expense,Education,Coaching Center
+10852,2026-03-27,Electricity bill payment,2670,Expense,Bills,Electricity Board
+10160,2024-11-16,Online payment for Cult Fit gym membership,1237,Expense,Health,Cult Fit
+10896,2026-01-27,Auto-debit for Dominos pizza night with friends,489,Expense,Food,Dominos
+11275,2025-03-11,Online payment for Haldirams family dinner,996,Expense,Food,Haldirams
+10258,2025-04-15,UPI payment for Smaaash gaming evening,1057,Expense,Entertainment,Smaaash
+10336,2025-10-29,Online payment for Post office charges,454,Expense,Other,Post Office
+11512,2026-04-06,Online payment for Birthday gift purchase,2630,Expense,Other,Gift Shop
+11040,2026-02-08,Card payment for Petrol refill at IndianOil,1777,Expense,Transport,IndianOil
+10516,2026-06-04,UPI payment for BigBasket grocery shopping,1724,Expense,Food,BigBasket
+11016,2026-06-17,Card payment for Hotstar annual subscription,434,Expense,Entertainment,Hotstar
+10769,2025-09-20,Paid via wallet for Croma gadget accessory,474,Expense,Shopping,Croma
+11537,2024-12-17,Online payment for Birthday gift purchase,1113,Expense,Other,Gift Shop
+10762,2025-02-04,Paid via wallet for Haldirams family dinner,1343,Expense,Food,Haldirams
+11505,2026-01-12,Wellness Forever pharmacy,851,Expense,Health,Wellness Forever
+11598,2026-07-16,IRCTC train ticket booking,2374,Expense,Transport,IRCTC
+10522,2026-04-13,Blinkit groceries and snacks,1274,Expense,Food,Blinkit
+10023,2025-09-02,Online payment for Steam game purchase,2437,Expense,Entertainment,Steam
+10357,2025-10-04,Card payment for BigBasket grocery shopping,1484,Expense,Food,BigBasket
+11436,2026-08-23,Uber ride to office,203,Expense,Transport,Uber
+10341,2025-03-30,Card payment for DMart monthly household shopping,5723,Expense,Shopping,DMart
+10432,2026-01-25,Card payment for IRCTC train ticket booking,1431,Expense,Transport,IRCTC
+10474,2025-08-27,Card payment for Metro recharge,311,Expense,Transport,Delhi Metro
+10218,2026-01-04,Paid via wallet for ATM cash withdrawal,3611,Expense,Other,ATM
+10912,2026-08-03,Online payment for BigBasket grocery shopping with friends,2245,Expense,Food,BigBasket
+11410,2026-05-27,Airtel postpaid bill,694,Expense,Bills,Airtel
+11012,2026-06-14,Card payment for Coffee and breakfast at cafe with friends,304,Expense,Food,Local Cafe
+11569,2026-04-12,Online payment for Petrol refill at IndianOil,795,Expense,Transport,IndianOil
+10094,2025-12-20,Online payment for DMart monthly household shopping,2670,Expense,Shopping,DMart
+11009,2026-07-12,Paid via wallet for Water utility bill,856,Expense,Bills,Water Works
+11071,2025-03-10,UPI payment for Decathlon sports gear,3817,Expense,Shopping,Decathlon
+11093,2025-12-22,UPI payment for Amazon electronics purchase,3330,Expense,Shopping,Amazon
+10697,2026-01-28,UPI payment for Blinkit groceries and snacks,661,Expense,Food,Blinkit
+11444,2025-01-27,Card payment for Hotstar annual subscription,1258,Expense,Entertainment,Hotstar
+10997,2025-03-23,Auto-debit for Nykaa personal care order,408,Expense,Shopping,Nykaa
+10154,2026-09-07,Paid via wallet for Metro recharge,471,Expense,Transport,Delhi Metro
+11100,2026-07-27,Airtel postpaid bill,486,Expense,Bills,Airtel
+11395,2025-07-15,UPI payment for Steam game purchase,2222,Expense,Entertainment,Steam
+10651,2026-04-08,,1706,Expense,Health,Practo
+10790,2025-07-23,Croma gadget accessory,3653,Expense,Shopping,Croma
+10581,2025-02-27,Card payment for Dominos pizza night,1227,Expense,Food,Dominos
+10704,2025-06-14,UPI payment for Amazon electronics purchase,5107,Expense,Shopping,Amazon
+11377,2026-05-06,Decathlon sports gear,4450,Expense,Shopping,Decathlon
+10488,2026-08-27,UPI payment for Electricity bill payment,834,Expense,Bills,Electricity Board
+10560,2025-02-22,Auto-debit for Coffee and breakfast at cafe,415,Expense,Food,Local Cafe
+11142,2026-03-03,Online payment for LPG cylinder booking,917,Expense,Bills,Gas Agency
+11120,2026-02-03,Auto-debit for Dominos pizza night,1074,Expense,Food,Dominos
+10802,2025-03-04,Online payment for Nykaa personal care order,2073,Expense,Shopping,Nykaa
+10513,2025-03-10,Online payment for Decathlon sports gear,3101,Expense,Shopping,Decathlon
+10634,2026-03-04,Paid via wallet for House rent payment,11394,Expense,Bills,Rent
+11190,2025-11-01,Paid via wallet for Water utility bill,210,Expense,Bills,Water Works
+11440,2026-05-11,Card payment for Coffee and breakfast at cafe after work,748,Expense,Food,Local Cafe
+11151,2025-02-25,Paid via wallet for Doctor consultation fee,1511,Expense,Health,Dr Mehta
+10791,2025-06-24,Card payment for Fastag toll recharge,1338,Expense,Transport,Fastag
+10117,2026-05-18,Card payment for Croma gadget accessory,2045,Expense,Shopping,Croma
+10741,2026-07-22,Online payment for Nykaa personal care order,1021,Expense,Shopping,Nykaa
+11082,2025-01-15,Paid via wallet for Smaaash gaming evening,917,Expense,Entertainment,Smaaash
+10831,2025-04-09,Card payment for BookMyShow concert tickets,1063,Expense,Entertainment,BookMyShow
+10120,2025-08-17,IRCTC train ticket booking,2598,Expense,Transport,IRCTC
+10657,2026-03-05,Paid via wallet for DMart monthly household shopping,2087,Expense,Shopping,DMart
+11532,2024-12-29,Card payment for City Hospital consultation,2498,Expense,Health,City Hospital
+10636,2025-07-13,UPI payment for Amazon electronics purchase,5055,Expense,Shopping,Amazon
+10370,2026-08-24,Paid via wallet for Zomato lunch order,824,Expense,Food,Zomato
+10269,2025-07-06,Online payment for Croma gadget accessory,485,Expense,Shopping,Croma
+10656,2025-05-07,Rapido bike taxi,99,Expense,Transport,Rapido
+10936,2025-03-07,Rapido bike taxi,346,Expense,Transport,Rapido
+10823,2026-02-28,Auto-debit for Swiggy dinner order after work,421,Expense,Food,Swiggy
+10867,2025-11-05,Auto-debit for Apollo Pharmacy medicines,1123,Expense,Health,Apollo Pharmacy
+10047,2026-09-17,Online payment for LPG cylinder booking,849,Expense,Bills,Gas Agency
+11386,2025-06-22,Auto-debit for Spotify premium subscription,207,Expense,Entertainment,Spotify
+10992,2026-03-09,Paid via wallet for Croma gadget accessory,1167,Expense,Shopping,Croma
+10877,2025-07-19,Card payment for DMart monthly household shopping,5369,Expense,Shopping,DMart
+10774,2026-02-01,Online payment for Haldirams family dinner,1540,Expense,Food,Haldirams
+11104,2026-09-28,,658,Expense,Entertainment,PVR
+10005,2025-02-03,Paid via wallet for Ola cab ride,570,Expense,Transport,Ola
+11004,2026-06-28,Paid via wallet for Wellness Forever pharmacy,164,Expense,Health,Wellness Forever
+11599,2025-05-05,Card payment for Coursera specialization fee,2275,Expense,Education,Coursera
+10264,2025-03-30,UPI payment for NPTEL exam registration,1196,Expense,Education,NPTEL
+11269,2025-09-14,Online payment for Airtel postpaid bill,747,Expense,Bills,Airtel
+11473,2024-11-19,Auto-debit for Myntra clothing purchase,3319,Expense,Shopping,Myntra
+10444,2026-01-15,Water utility bill,764,Expense,Bills,Water Works
+11003,2025-11-03,Amazon electronics purchase,650,Expense,Shopping,Amazon
+11078,2026-07-25,Paid via wallet for Electricity bill payment,1073,Expense,Bills,Electricity Board
+10838,2026-02-07,Card payment for Dominos pizza night,458,Expense,Food,Dominos
+11442,2025-04-02,Paid via wallet for Netflix monthly subscription,509,Expense,Entertainment,Netflix
+10305,2026-07-23,Auto-debit for LPG cylinder booking,952,Expense,Bills,Gas Agency
+11259,2026-09-11,Auto-debit for Practo lab test booking,1361,Expense,Health,Practo
+10314,2026-07-24,Paid via wallet for Uber ride to office,181,Expense,Transport,Uber
+10150,2026-04-06,Online payment for Jio fiber broadband bill,1362,Expense,Bills,Jio
+11149,2025-12-27,Card payment for Coffee and breakfast at cafe,296,Expense,Food,Local Cafe
+11214,2025-03-24,UPI payment for Airtel postpaid bill,850,Expense,Bills,Airtel
+10575,2026-03-10,Online payment for Amazon electronics purchase,3227,Expense,Shopping,Amazon
+10051,2026-05-11,Online payment for 1mg health supplements,722,Expense,Health,1mg
+11256,2026-02-22,Paid via wallet for Zomato lunch order after work,230,Expense,Food,Zomato
+10727,2026-06-04,Electricity bill payment,999,Expense,Bills,Electricity Board
+10834,2025-12-27,Auto-debit for BSNL landline bill,304,Expense,Bills,BSNL
+11116,2025-10-28,Card payment for Metro recharge,355,Expense,Transport,Delhi Metro
+11167,2025-08-18,Paid via wallet for Netflix monthly subscription,355,Expense,Entertainment,Netflix
+10471,2025-03-01,UPI payment for Fastag toll recharge,343,Expense,Transport,Fastag
+10972,2026-03-11,Online payment for Steam game purchase,585,Expense,Entertainment,Steam
+10654,2025-02-06,Rapido bike taxi,162,Expense,Transport,Rapido
+10400,2025-01-16,Online payment for ATM cash withdrawal,3389,Expense,Other,ATM
+10512,2025-10-22,Auto-debit for House rent payment,6434,Expense,Bills,Rent
+10321,2025-11-07,Auto-debit for Petrol refill at IndianOil,664,Expense,Transport,IndianOil
+10020,2025-02-26,Online payment for Croma gadget accessory,2990,Expense,Shopping,Croma
+10685,2026-05-15,Card payment for Nykaa personal care order,2374,Expense,Shopping,Nykaa
+10036,2025-07-13,UPI payment for Blinkit groceries and snacks after work,845,Expense,Food,Blinkit
+10903,2024-11-09,Steam game purchase,844,Expense,Entertainment,Steam
+10828,2025-05-01,Auto-debit for Flipkart home essentials,5488,Expense,Shopping,Flipkart
+11447,2025-10-30,Card payment for Udemy online course purchase,2170,Expense,Education,Udemy
+10408,2025-01-22,Online payment for LIC insurance premium,2953,Expense,Other,LIC
+10921,2025-01-21,Online payment for Zomato lunch order,305,Expense,Food,Zomato
+10538,2026-02-07,Auto-debit for 1mg health supplements,253,Expense,Health,1mg
+10759,2025-01-10,UPI payment for PVR movie tickets,1432,Expense,Entertainment,PVR
+11063,2025-02-17,Flipkart home essentials,3722,Expense,Shopping,Flipkart
+11200,2025-09-04,Paid via wallet for Uber ride to office,451,Expense,Transport,Uber
+10246,2025-09-14,Online payment for IRCTC train ticket booking,2183,Expense,Transport,IRCTC
+11128,2025-01-29,Auto-debit for Coffee and breakfast at cafe,592,Expense,Food,Local Cafe
+10785,2025-05-19,Paid via wallet for Fastag toll recharge,521,Expense,Transport,Fastag
+10490,2026-07-01,UPI payment for Airtel postpaid bill,502,Expense,Bills,Airtel
+10155,2026-05-20,Auto-debit for Cult Fit gym membership,1961,Expense,Health,Cult Fit
+10962,2026-03-01,Metro recharge,489,Expense,Transport,Delhi Metro
+10854,2025-02-18,UPI payment for Blinkit groceries and snacks,516,Expense,Food,Blinkit
+10626,2025-07-25,Auto-debit for Cult Fit gym membership,2490,Expense,Health,Cult Fit
+10686,2026-08-02,Online payment for Steam game purchase,1397,Expense,Entertainment,Steam
+10570,2024-11-02,Uber ride to office,356,Expense,Transport,Uber
+11533,2025-12-17,Online payment for Wellness Forever pharmacy,256,Expense,Health,Wellness Forever
+10018,2026-08-05,UPI payment for Decathlon sports gear,615,Expense,Shopping,Decathlon
+10128,2025-09-01,Auto-debit for Coffee and breakfast at cafe,368,Expense,Food,Local Cafe
+11585,2026-04-20,Card payment for Flipkart home essentials,3470,Expense,Shopping,Flipkart
+10928,2026-02-06,Paid via wallet for House rent payment,16343,Expense,Bills,Rent
+10981,2026-05-08,Paid via wallet for Uber ride to office,344,Expense,Transport,Uber
+11581,2025-05-31,Online payment for Myntra clothing purchase,861,Expense,Shopping,Myntra
+10191,2025-11-12,Auto-debit for Birthday gift purchase,1364,Expense,Other,Gift Shop
+11140,2026-08-23,UPI payment for School tuition fee payment,5098,Expense,Education,School Fees
+10993,2026-01-20,Auto-debit for Zomato lunch order,752,Expense,Food,Zomato
+11574,2026-09-16,Auto-debit for Swiggy dinner order weekend treat,350,Expense,Food,Swiggy
+11341,2024-12-12,Auto-debit for Apollo Pharmacy medicines,403,Expense,Health,Apollo Pharmacy
+10607,2026-03-16,Auto-debit for Amazon electronics purchase,4373,Expense,Shopping,Amazon
+10181,2025-01-17,UPI payment for PVR movie tickets,1229,Expense,Entertainment,PVR
+10302,2024-12-27,BSNL landline bill,900,Expense,Bills,BSNL
+10497,2025-03-24,UPI payment for PVR movie tickets,1327,Expense,Entertainment,PVR
+11387,2026-09-26,Auto-debit for PVR movie tickets,573,Expense,Entertainment,PVR
+11346,2026-04-01,Online payment for Wellness Forever pharmacy,1034,Expense,Health,Wellness Forever
+11326,2025-04-13,Myntra clothing purchase,2800,Expense,Shopping,Myntra
+10518,2025-07-09,Netflix monthly subscription,269,Expense,Entertainment,Netflix
+11070,2026-08-30,Auto-debit for Swiggy dinner order,354,Expense,Food,Swiggy
+10477,2025-09-26,UPI payment for Haldirams family dinner,571,Expense,Food,Haldirams
+10158,2026-08-30,UPI payment for School tuition fee payment,6880,Expense,Education,School Fees
+11244,2026-02-13,Flipkart home essentials,2396,Expense,Shopping,Flipkart
+11196,2025-11-08,Paid via wallet for Practo lab test booking,1147,Expense,Health,Practo
+10017,2025-03-22,Auto-debit for School tuition fee payment,7417,Expense,Education,School Fees
+11073,2026-08-05,Card payment for House rent payment,14760,Expense,Bills,Rent
+11588,2025-01-16,Auto-debit for Electricity bill payment,973,Expense,Bills,Electricity Board
+10547,2025-11-28,UPI payment for Croma gadget accessory,1881,Expense,Shopping,Croma
+10659,2026-01-23,UPI payment for Coffee and breakfast at cafe,379,Expense,Food,Local Cafe
+11314,2025-12-30,Card payment for Ola cab ride,143,Expense,Transport,Ola
+11020,2026-08-02,LPG cylinder booking,911,Expense,Bills,Gas Agency
+11347,2025-09-30,DMart monthly household shopping,3580,Expense,Shopping,DMart
+10960,2025-10-08,Card payment for Myntra clothing purchase,2989,Expense,Shopping,Myntra
+11514,2025-11-06,Online payment for Spotify premium subscription,308,Expense,Entertainment,Spotify
+10284,2026-02-01,Water utility bill,265,Expense,Bills,Water Works
+10798,2024-12-14,Paid via wallet for Amazon electronics purchase,5449,Expense,Shopping,Amazon
+10226,2025-12-12,Online payment for Decathlon sports gear,3146,Expense,Shopping,Decathlon
+10027,2026-09-07,Paid via wallet for Haldirams family dinner,1052,Expense,Food,Haldirams
+10438,2025-01-10,Paid via wallet for Nykaa personal care order,890,Expense,Shopping,Nykaa
+11568,2024-12-28,Post office charges,327,Expense,Other,Post Office
+10230,2025-12-11,Card payment for BigBasket grocery shopping,2301,Expense,Food,BigBasket
+10038,2024-11-16,Apollo Pharmacy medicines,305,Expense,Health,Apollo Pharmacy
+10750,2026-04-11,Online payment for Zomato lunch order,447,Expense,Food,Zomato
+11046,2026-03-25,UPI payment for Electricity bill payment,2428,Expense,Bills,Electricity Board
+10470,2026-02-04,Card payment for Jio fiber broadband bill,1196,Expense,Bills,Jio
+11434,2026-07-30,Card payment for Flipkart home essentials,3219,Expense,Shopping,Flipkart
+11584,2025-08-28,Online payment for Uber ride to office,657,Expense,Transport,Uber
+10688,2025-10-27,Auto-debit for Nykaa personal care order,1929,Expense,Shopping,Nykaa
+11482,2025-12-10,Paid via wallet for Jio fiber broadband bill,1651,Expense,Bills,Jio
+10640,2025-12-19,Post office charges,196,Expense,Other,Post Office
+11390,2026-04-14,Rapido bike taxi,204,Expense,Transport,Rapido
+11219,2026-05-01,Card payment for Myntra clothing purchase,3222,Expense,Shopping,Myntra
+11159,2026-09-18,Card payment for Coursera specialization fee,2766,Expense,Education,Coursera
+11340,2025-03-02,Auto-debit for Nykaa personal care order,692,Expense,Shopping,Nykaa
+11301,2026-07-30,UPI payment for Petrol refill at IndianOil,2778,Expense,Transport,IndianOil
+11467,2025-01-18,Decathlon sports gear,3384,Expense,Shopping,Decathlon
+10801,2026-05-08,Coffee and breakfast at cafe,525,Expense,Food,Local Cafe
+10161,2026-02-24,Card payment for Haldirams family dinner,1216,Expense,Food,Haldirams
+10957,2025-06-01,Auto-debit for Swiggy dinner order,691,Expense,Food,Swiggy
+11187,2025-11-22,Auto-debit for DMart monthly household shopping,2214,Expense,Shopping,DMart
+10822,2025-01-21,UPI payment for Hotstar annual subscription,690,Expense,Entertainment,Hotstar
+11363,2026-09-23,Udemy online course purchase,1524,Expense,Education,Udemy
+10878,2024-12-06,Card payment for Post office charges,410,Expense,Other,Post Office
+10914,2025-05-27,UPI payment for Flipkart home essentials,3701,Expense,Shopping,Flipkart
+10153,2025-08-01,BookMyShow concert tickets,1298,Expense,Entertainment,BookMyShow
+11477,2025-09-12,Paid via wallet for House rent payment,16869,Expense,Bills,Rent
+10510,2025-07-03,Blinkit groceries and snacks after work,1016,Expense,Food,Blinkit
+11136,2025-03-21,UPI payment for BigBasket grocery shopping after work,2853,Expense,Food,BigBasket
+11251,2025-07-25,Dominos pizza night,976,Expense,Food,Dominos
+11348,2025-12-10,Card payment for Hotstar annual subscription,1052,Expense,Entertainment,Hotstar
+10104,2025-02-13,Online payment for Coffee and breakfast at cafe,497,Expense,Food,Local Cafe
+10587,2025-01-20,Paid via wallet for Competitive exam coaching fee,7524,Expense,Education,Coaching Center
+11426,2025-10-02,UPI payment for BSNL landline bill,724,Expense,Bills,BSNL
+11144,2025-03-19,Card payment for Jio fiber broadband bill,1181,Expense,Bills,Jio
+10054,2025-10-18,UPI payment for Spotify premium subscription,213,Expense,Entertainment,Spotify
+10152,2025-03-20,Zomato lunch order,795,Expense,Food,Zomato
+10404,2025-08-21,Coffee and breakfast at cafe,497,Expense,Food,Local Cafe
+11564,2024-12-26,Online payment for Flipkart home essentials,2242,Expense,Shopping,Flipkart
+10208,2025-04-06,Online payment for BigBasket grocery shopping,1410,Expense,Food,BigBasket
+11523,2026-01-16,UPI payment for BookMyShow concert tickets,1670,Expense,Entertainment,BookMyShow
+11123,2026-06-11,Online payment for Rapido bike taxi,166,Expense,Transport,Rapido
+11534,2026-04-28,Card payment for 1mg health supplements,217,Expense,Health,1mg
+10009,2025-08-12,Paid via wallet for Birthday gift purchase,723,Expense,Other,Gift Shop
+11015,2026-02-27,Online payment for Croma gadget accessory,3191,Expense,Shopping,Croma
+11446,2025-03-12,Card payment for Croma gadget accessory,460,Expense,Shopping,Croma
+11061,2025-07-07,Online payment for Water utility bill,812,Expense,Bills,Water Works
+10453,2025-05-22,Paid via wallet for Water utility bill,466,Expense,Bills,Water Works
+10254,2026-01-23,Wellness Forever pharmacy,1114,Expense,Health,Wellness Forever
+11328,2026-08-05,Auto-debit for Nykaa personal care order,432,Expense,Shopping,Nykaa
+10897,2025-01-27,Coursera specialization fee,1538,Expense,Education,Coursera
+11404,2024-11-13,Auto-debit for Myntra clothing purchase,2389,Expense,Shopping,Myntra
+10881,2024-12-09,Paid via wallet for Croma gadget accessory,3404,Expense,Shopping,Croma
+11518,2026-01-08,UPI payment for Airtel postpaid bill,753,Expense,Bills,Airtel
+10624,2026-05-27,UPI payment for Petrol refill at IndianOil,757,Expense,Transport,IndianOil
+10346,2026-08-31,Paid via wallet for Coffee and breakfast at cafe,538,Expense,Food,Local Cafe
+11382,2025-11-07,Rapido bike taxi,145,Expense,Transport,Rapido
+10263,2024-11-29,Card payment for Petrol refill at IndianOil,2787,Expense,Transport,IndianOil
+11322,2025-05-30,Auto-debit for Jio fiber broadband bill,1481,Expense,Bills,Jio
+10151,2026-02-11,Auto-debit for Fastag toll recharge,709,Expense,Transport,Fastag
+10473,2024-12-31,Auto-debit for BSNL landline bill,395,Expense,Bills,BSNL
+10641,2024-11-23,Auto-debit for Blinkit groceries and snacks,1385,Expense,Food,Blinkit
+11597,2025-02-06,Auto-debit for Myntra clothing purchase,3142,Expense,Shopping,Myntra
+11515,2025-07-26,Auto-debit for Airtel postpaid bill,1062,Expense,Bills,Airtel
+10551,2025-08-15,Ola cab ride,135,Expense,Transport,Ola
+10929,2026-05-05,Paid via wallet for Apollo Pharmacy medicines,1682,Expense,Health,Apollo Pharmacy
+10489,2025-06-28,Paid via wallet for Blinkit groceries and snacks,754,Expense,Food,Blinkit
+10515,2026-06-14,,837,Expense,Entertainment,PVR
+11172,2025-04-22,Airtel postpaid bill,1199,Expense,Bills,Airtel
+10147,2025-03-05,Myntra clothing purchase,2395,Expense,Shopping,Myntra
+11551,2026-06-14,Online payment for Jio fiber broadband bill,2000,Expense,Bills,Jio
+10403,2026-05-19,Paid via wallet for Stationery and notebooks,335,Expense,Education,Stationery Shop
+10955,2026-08-10,Paid via wallet for Ola cab ride,427,Expense,Transport,Ola
+11510,2025-01-12,Paid via wallet for Petrol refill at IndianOil,1504,Expense,Transport,IndianOil
+10660,2025-03-14,Paid via wallet for Steam game purchase,399,Expense,Entertainment,Steam
+11373,2026-02-07,Card payment for Stationery and notebooks,296,Expense,Education,Stationery Shop
+10464,2026-08-31,Paid via wallet for Haldirams family dinner,1040,Expense,Food,Haldirams
+11350,2025-09-13,Auto-debit for Practo lab test booking,391,Expense,Health,Practo
+10187,2025-02-08,UPI payment for Swiggy dinner order,507,Expense,Food,Swiggy
+11148,2025-10-27,UPI payment for House rent payment,11010,Expense,Bills,Rent
+11225,2025-06-30,Card payment for Amazon technical books,460,Expense,Education,Amazon Books
+10609,2025-08-19,City Hospital consultation,3092,Expense,Health,City Hospital
+10144,2026-04-11,Metro recharge,169,Expense,Transport,Delhi Metro
+10752,2026-06-28,UPI payment for BookMyShow concert tickets,1894,Expense,Entertainment,BookMyShow
+10982,2025-02-17,Paid via wallet for Swiggy dinner order after work,667,Expense,Food,Swiggy
+10198,2025-07-30,Spotify premium subscription,243,Expense,Entertainment,Spotify
+10884,2026-06-14,Dominos pizza night,941,Expense,Food,Dominos
+10280,2025-12-01,Card payment for BookMyShow concert tickets,2602,Expense,Entertainment,BookMyShow
+10294,2026-09-30,Card payment for Blinkit groceries and snacks,738,Expense,Food,Blinkit
+11468,2025-07-17,UPI payment for Decathlon sports gear,1859,Expense,Shopping,Decathlon
+10401,2025-06-25,Swiggy dinner order,660,Expense,Food,Swiggy
+10123,2024-11-13,Auto-debit for Stationery and notebooks,650,Expense,Education,Stationery Shop
+11208,2025-02-25,UPI payment for Blinkit groceries and snacks with friends,1034,Expense,Food,Blinkit
+10203,2025-03-10,Card payment for Amazon electronics purchase,2273,Expense,Shopping,Amazon
+10836,2026-07-21,Online payment for Swiggy dinner order,532,Expense,Food,Swiggy
+10247,2025-01-26,Card payment for Water utility bill,265,Expense,Bills,Water Works
+11528,2026-09-20,Swiggy dinner order after work,700,Expense,Food,Swiggy
+11513,2025-11-30,Paid via wallet for Nykaa personal care order,969,Expense,Shopping,Nykaa
+11154,2025-03-02,UPI payment for PVR movie tickets,475,Expense,Entertainment,PVR
+10385,2025-12-28,Paid via wallet for BSNL landline bill,505,Expense,Bills,BSNL
+11419,2025-04-28,Card payment for Dominos pizza night,600,Expense,Food,Dominos
+10855,2026-01-24,Online payment for IRCTC train ticket booking,2370,Expense,Transport,IRCTC
+10220,2024-12-21,Online payment for Swiggy dinner order after work,442,Expense,Food,Swiggy
+10642,2026-08-18,Card payment for Blinkit groceries and snacks,935,Expense,Food,Blinkit
+10002,2026-01-07,Blinkit groceries and snacks with friends,1213,Expense,Food,Blinkit
+10113,2024-11-11,Auto-debit for IRCTC train ticket booking,1798,Expense,Transport,IRCTC
+10699,2026-10-01,Spotify premium subscription,185,Expense,Entertainment,Spotify
+11538,2026-07-21,Petrol refill at IndianOil,1082,Expense,Transport,IndianOil
+10952,2025-02-20,Auto-debit for Flipkart home essentials,3959,Expense,Shopping,Flipkart
+11413,2026-07-24,Card payment for BSNL landline bill,799,Expense,Bills,BSNL
+11292,2026-03-23,Online payment for House rent payment,11363,Expense,Bills,Rent
+11457,2025-05-31,UPI payment for Nykaa personal care order,556,Expense,Shopping,Nykaa
+10442,2026-07-02,Online payment for Dominos pizza night,1111,Expense,Food,Dominos
+11137,2026-06-23,Card payment for Petrol refill at IndianOil,705,Expense,Transport,IndianOil
+11257,2026-02-12,Paid via wallet for Dominos pizza night weekend treat,1278,Expense,Food,Dominos
+11398,2024-12-05,Paid via wallet for Amazon electronics purchase,966,Expense,Shopping,Amazon
+10664,2026-09-24,Online payment for Nykaa personal care order,837,Expense,Shopping,Nykaa
+11476,2026-04-20,Online payment for DMart monthly household shopping,4827,Expense,Shopping,DMart
+11258,2025-08-18,UPI payment for Apollo Pharmacy medicines,742,Expense,Health,Apollo Pharmacy
+11453,2026-03-16,Jio fiber broadband bill,718,Expense,Bills,Jio
+10318,2025-08-16,Paid via wallet for LIC insurance premium,3406,Expense,Other,LIC
+10649,2025-06-01,Online payment for Electricity bill payment,1049,Expense,Bills,Electricity Board
+10710,2025-11-19,Auto-debit for Rapido bike taxi,163,Expense,Transport,Rapido
+11383,2025-05-20,Online payment for Rapido bike taxi,228,Expense,Transport,Rapido
+11283,2026-05-02,Charity donation,1579,Expense,Other,Donation
+10973,2025-02-09,Auto-debit for City Hospital consultation,2565,Expense,Health,City Hospital
+10628,2026-03-28,LPG cylinder booking,896,Expense,Bills,Gas Agency
+10633,2025-01-30,UPI payment for Spotify premium subscription,256,Expense,Entertainment,Spotify
+11307,2026-09-17,NPTEL exam registration,1257,Expense,Education,NPTEL
+11401,2025-12-26,UPI payment for Petrol refill at IndianOil,1562,Expense,Transport,IndianOil
+11409,2024-11-09,Auto-debit for Dominos pizza night,834,Expense,Food,Dominos
+11249,2026-05-27,Petrol refill at IndianOil,1846,Expense,Transport,IndianOil
+11572,2025-01-31,Paid via wallet for Rapido bike taxi,356,Expense,Transport,Rapido
+11255,2025-05-13,UPI payment for Practo lab test booking,1745,Expense,Health,Practo
+11372,2025-09-22,Online payment for Petrol refill at IndianOil,1036,Expense,Transport,IndianOil
+11355,2024-12-17,Paid via wallet for Coffee and breakfast at cafe,415,Expense,Food,Local Cafe
+11548,2026-08-20,Auto-debit for Stationery and notebooks,543,Expense,Education,Stationery Shop
+11487,2025-03-17,Card payment for Rapido bike taxi,270,Expense,Transport,Rapido
+10796,2025-07-14,Auto-debit for Metro recharge,170,Expense,Transport,Delhi Metro
+10646,2025-02-16,Auto-debit for IRCTC train ticket booking,1905,Expense,Transport,IRCTC
+11013,2025-01-21,UPI payment for House rent payment,11279,Expense,Bills,Rent
+10557,2025-06-27,Auto-debit for Flipkart home essentials,2376,Expense,Shopping,Flipkart
+10682,2026-07-08,Auto-debit for Haldirams family dinner,626,Expense,Food,Haldirams
+10578,2026-06-09,Auto-debit for Electricity bill payment,1055,Expense,Bills,Electricity Board
+11110,2025-08-28,Paid via wallet for Zomato lunch order,575,Expense,Food,Zomato
+11267,2025-12-14,Petrol refill at IndianOil,1028,Expense,Transport,IndianOil
+11184,2026-01-16,UPI payment for City Hospital consultation,2888,Expense,Health,City Hospital
+10525,2026-05-14,UPI payment for Water utility bill,927,Expense,Bills,Water Works
+11060,2025-03-25,Paid via wallet for Spotify premium subscription,327,Expense,Entertainment,Spotify
+10541,2025-01-16,House rent payment,7600,Expense,Bills,Rent
+11195,2026-03-24,Auto-debit for Netflix monthly subscription,572,Expense,Entertainment,Netflix
+10749,2026-03-09,Auto-debit for Decathlon sports gear,4149,Expense,Shopping,Decathlon
+11490,2025-03-08,Card payment for Airtel postpaid bill,641,Expense,Bills,Airtel
+11431,2025-06-13,UPI payment for Decathlon sports gear,2452,Expense,Shopping,Decathlon
+10485,2026-02-14,Netflix monthly subscription,301,Expense,Entertainment,Netflix
+10096,2025-03-19,Paid via wallet for House rent payment,7002,Expense,Bills,Rent
+11021,2025-08-12,Card payment for Uber ride to office,165,Expense,Transport,Uber
+10564,2026-06-27,UPI payment for Doctor consultation fee,1189,Expense,Health,Dr Mehta
+11265,2026-06-06,UPI payment for Rapido bike taxi,388,Expense,Transport,Rapido
+10743,2024-12-12,UPI payment for Bank service charges,375,Expense,Other,Bank
+10864,2025-02-10,Swiggy dinner order,433,Expense,Food,Swiggy
+10892,2025-05-22,Paid via wallet for Spotify premium subscription,346,Expense,Entertainment,Spotify
+11039,2025-05-09,Blinkit groceries and snacks,1350,Expense,Food,Blinkit
+10207,2025-12-31,Online payment for Cult Fit gym membership,1595,Expense,Health,Cult Fit
+10393,2026-03-25,Paid via wallet for Electricity bill payment,1356,Expense,Bills,Electricity Board
+10795,2026-03-26,Online payment for Blinkit groceries and snacks weekend treat,1360,Expense,Food,Blinkit
+10871,2025-05-03,Auto-debit for Blinkit groceries and snacks,659,Expense,Food,Blinkit
+10398,2026-03-18,Paid via wallet for BookMyShow concert tickets,2689,Expense,Entertainment,BookMyShow
+10767,2026-07-06,Auto-debit for Flipkart home essentials,4056,Expense,Shopping,Flipkart
+11480,2026-09-12,UPI payment for Airtel postpaid bill,693,Expense,Bills,Airtel
+11242,2026-01-03,UPI payment for BSNL landline bill,527,Expense,Bills,BSNL
+11029,2026-01-20,Water utility bill,416,Expense,Bills,Water Works
+10643,2026-09-01,LPG cylinder booking,1446,Expense,Bills,Gas Agency
+10613,2025-09-09,Online payment for Haldirams family dinner,438,Expense,Food,Haldirams
+10961,2025-04-29,UPI payment for Croma gadget accessory,2256,Expense,Shopping,Croma
+10726,2025-05-08,UPI payment for Nykaa personal care order,1971,Expense,Shopping,Nykaa
+10684,2025-03-17,UPI payment for Myntra clothing purchase,4218,Expense,Shopping,Myntra
+10099,2025-06-18,Online payment for Coffee and breakfast at cafe weekend treat,178,Expense,Food,Local Cafe
+10805,2025-11-10,UPI payment for Metro recharge,317,Expense,Transport,Delhi Metro
+10407,2026-06-02,UPI payment for Netflix monthly subscription,428,Expense,Entertainment,Netflix
+10503,2026-01-05,Card payment for Coursera specialization fee,2645,Expense,Education,Coursera
+11072,2025-04-28,Auto-debit for Dominos pizza night,807,Expense,Food,Dominos
+11057,2026-02-04,Water utility bill,588,Expense,Bills,Water Works
+10930,2026-08-08,ATM cash withdrawal,3180,Expense,Other,ATM
+10780,2026-04-15,Card payment for Amazon electronics purchase,1992,Expense,Shopping,Amazon
+10201,2026-08-21,Smaaash gaming evening,1317,Expense,Entertainment,Smaaash
+10135,2025-03-08,Paid via wallet for BSNL landline bill,620,Expense,Bills,BSNL
+11052,2025-10-15,Bank service charges,87,Expense,Other,Bank
+10041,2026-05-24,Online payment for NPTEL exam registration,973,Expense,Education,NPTEL
+11018,2025-08-29,Card payment for Competitive exam coaching fee,6385,Expense,Education,Coaching Center
+10231,2025-02-25,Auto-debit for Haldirams family dinner,714,Expense,Food,Haldirams
+10379,2026-06-13,Card payment for Dominos pizza night,668,Expense,Food,Dominos
+10289,2026-06-11,UPI payment for Myntra clothing purchase,2167,Expense,Shopping,Myntra
+10419,2025-10-01,LPG cylinder booking,1284,Expense,Bills,Gas Agency
+10392,2026-02-21,Auto-debit for Competitive exam coaching fee,3458,Expense,Education,Coaching Center
+10593,2026-04-17,Paid via wallet for Petrol refill at IndianOil,2111,Expense,Transport,IndianOil
+11163,2026-04-01,Online payment for Blinkit groceries and snacks,391,Expense,Food,Blinkit
+11087,2025-04-24,Auto-debit for Haldirams family dinner,1435,Expense,Food,Haldirams
+11496,2025-07-13,Online payment for IRCTC train ticket booking,626,Expense,Transport,IRCTC
+10648,2025-05-26,Card payment for BSNL landline bill,485,Expense,Bills,BSNL
+11153,2026-07-05,Auto-debit for Rapido bike taxi,181,Expense,Transport,Rapido
+11368,2026-03-09,Card payment for Jio fiber broadband bill,734,Expense,Bills,Jio
+10521,2026-06-09,Card payment for Nykaa personal care order,1185,Expense,Shopping,Nykaa
+10065,2024-11-25,Online payment for Fastag toll recharge,936,Expense,Transport,Fastag
+10015,2026-08-21,Paid via wallet for City Hospital consultation,1195,Expense,Health,City Hospital
+11181,2026-05-08,Auto-debit for Croma gadget accessory,1325,Expense,Shopping,Croma
+11065,2025-09-29,Fastag toll recharge,1325,Expense,Transport,Fastag
+10493,2025-03-17,Online payment for Metro recharge,180,Expense,Transport,Delhi Metro
+10380,2025-03-27,Online payment for Smaaash gaming evening,890,Expense,Entertainment,Smaaash
+10188,2026-05-08,Paid via wallet for BigBasket grocery shopping,2002,Expense,Food,BigBasket
+10764,2026-04-27,Paid via wallet for DMart monthly household shopping,2204,Expense,Shopping,DMart
+10217,2025-01-11,UPI payment for Haldirams family dinner,716,Expense,Food,Haldirams
+10792,2025-07-28,UPI payment for Myntra clothing purchase,2059,Expense,Shopping,Myntra
+11077,2024-12-15,Water utility bill,432,Expense,Bills,Water Works
+10879,2024-11-07,Card payment for LPG cylinder booking,942,Expense,Bills,Gas Agency
+10338,2025-09-01,Card payment for Flipkart home essentials,1666,Expense,Shopping,Flipkart
+10720,2025-11-26,Paid via wallet for Uber ride to office,328,Expense,Transport,Uber
+10296,2026-04-05,UPI payment for House rent payment,15938,Expense,Bills,Rent
+11017,2026-02-08,Auto-debit for Electricity bill payment,1798,Expense,Bills,Electricity Board
+11276,2026-05-19,Doctor consultation fee,938,Expense,Health,Dr Mehta
+11486,2025-02-06,Auto-debit for Smaaash gaming evening,1179,Expense,Entertainment,Smaaash
+10456,2026-03-17,Auto-debit for Ola cab ride,314,Expense,Transport,Ola
+10479,2025-02-04,,548,Expense,Transport,Uber
+10816,2025-01-20,Paid via wallet for Water utility bill,673,Expense,Bills,Water Works
+10270,2026-06-08,Paid via wallet for BigBasket grocery shopping weekend treat,698,Expense,Food,BigBasket
+10996,2025-11-24,Card payment for Croma gadget accessory,930,Expense,Shopping,Croma
+10202,2025-02-19,Paid via wallet for BigBasket grocery shopping,2876,Expense,Food,BigBasket
+10162,2026-09-22,Auto-debit for House rent payment,6835,Expense,Bills,Rent
+10730,2025-09-22,Paid via wallet for Dominos pizza night,1061,Expense,Food,Dominos
+10402,2026-08-16,Online payment for Coffee and breakfast at cafe,296,Expense,Food,Local Cafe
+10703,2026-03-18,Auto-debit for Hotstar annual subscription,1157,Expense,Entertainment,Hotstar
+11501,2026-01-09,UPI payment for PVR movie tickets,447,Expense,Entertainment,PVR
+11130,2025-11-17,Nykaa personal care order,2173,Expense,Shopping,Nykaa
+10566,2026-06-05,School tuition fee payment,12257,Expense,Education,School Fees
+11414,2024-12-14,Paid via wallet for Flipkart home essentials,1113,Expense,Shopping,Flipkart
+11022,2025-02-23,Auto-debit for Dominos pizza night weekend treat,556,Expense,Food,Dominos
+11026,2026-06-15,Online payment for BigBasket grocery shopping,2306,Expense,Food,BigBasket
+11412,2026-02-22,Auto-debit for Rapido bike taxi,207,Expense,Transport,Rapido
+11105,2026-03-29,Auto-debit for Uber ride to office,328,Expense,Transport,Uber
+10206,2026-01-15,Paid via wallet for BSNL landline bill,755,Expense,Bills,BSNL
+10035,2026-08-24,Decathlon sports gear,3824,Expense,Shopping,Decathlon
+10776,2025-02-02,UPI payment for Jio fiber broadband bill,1177,Expense,Bills,Jio
+10509,2026-09-29,Online payment for IRCTC train ticket booking,2050,Expense,Transport,IRCTC
+11452,2025-04-25,Water utility bill,549,Expense,Bills,Water Works
+11479,2024-11-15,Card payment for Swiggy dinner order,251,Expense,Food,Swiggy
+11587,2025-03-18,Auto-debit for Zomato lunch order,466,Expense,Food,Zomato
+11391,2026-04-30,Paid via wallet for 1mg health supplements,335,Expense,Health,1mg
+10092,2026-01-04,Auto-debit for Dominos pizza night,608,Expense,Food,Dominos
+11364,2026-06-05,Paid via wallet for IRCTC train ticket booking,1592,Expense,Transport,IRCTC
+10898,2025-08-22,Spotify premium subscription,470,Expense,Entertainment,Spotify
+10565,2024-11-02,Online payment for Rapido bike taxi,215,Expense,Transport,Rapido
+11370,2026-05-01,Auto-debit for LPG cylinder booking,795,Expense,Bills,Gas Agency
+10777,2025-06-16,Card payment for Croma gadget accessory,1722,Expense,Shopping,Croma
+10242,2026-04-21,Auto-debit for Zomato lunch order,785,Expense,Food,Zomato
+10014,2025-06-05,Auto-debit for Wellness Forever pharmacy,502,Expense,Health,Wellness Forever
+10316,2026-02-22,Paid via wallet for Fastag toll recharge,448,Expense,Transport,Fastag
+10601,2025-08-03,Online payment for Blinkit groceries and snacks,982,Expense,Food,Blinkit
+10388,2026-06-25,Online payment for LPG cylinder booking,636,Expense,Bills,Gas Agency
+11298,2025-06-13,Auto-debit for BookMyShow concert tickets,1058,Expense,Entertainment,BookMyShow
+10167,2025-05-04,UPI payment for Flipkart home essentials,3086,Expense,Shopping,Flipkart
+10841,2026-03-26,Card payment for BigBasket grocery shopping,1265,Expense,Food,BigBasket
+10021,2025-02-23,Card payment for Wellness Forever pharmacy,511,Expense,Health,Wellness Forever
+10647,2026-03-25,UPI payment for Netflix monthly subscription,429,Expense,Entertainment,Netflix
+11509,2025-12-10,Online payment for PVR movie tickets,1026,Expense,Entertainment,PVR
+11155,2025-03-09,UPI payment for Blinkit groceries and snacks with friends,443,Expense,Food,Blinkit
+11529,2024-12-13,Netflix monthly subscription,697,Expense,Entertainment,Netflix
+10832,2025-10-19,Card payment for Coffee and breakfast at cafe,608,Expense,Food,Local Cafe
+11268,2025-08-19,Online payment for Zomato lunch order,366,Expense,Food,Zomato
+10563,2026-05-30,Online payment for Bank service charges,182,Expense,Other,Bank
+11571,2026-07-04,UPI payment for Zomato lunch order,437,Expense,Food,Zomato
+10687,2026-08-28,UPI payment for Metro recharge,423,Expense,Transport,Delhi Metro
+10958,2025-06-06,Myntra clothing purchase,2103,Expense,Shopping,Myntra
+10190,2026-01-29,Paid via wallet for Amazon technical books,300,Expense,Education,Amazon Books
+10976,2025-09-16,Uber ride to office,202,Expense,Transport,Uber
+10700,2024-12-12,Paid via wallet for Zomato lunch order,580,Expense,Food,Zomato
+11500,2025-01-20,Paid via wallet for Decathlon sports gear,3993,Expense,Shopping,Decathlon
+10511,2026-09-05,Online payment for Coffee and breakfast at cafe with friends,401,Expense,Food,Local Cafe
+11083,2026-07-18,Paid via wallet for Airtel postpaid bill,1010,Expense,Bills,Airtel
+10475,2025-02-06,UPI payment for BSNL landline bill,737,Expense,Bills,BSNL
+10857,2026-06-04,UPI payment for Myntra clothing purchase,2623,Expense,Shopping,Myntra
+10748,2025-06-17,Auto-debit for BSNL landline bill,330,Expense,Bills,BSNL
+10253,2026-07-05,Paid via wallet for Dominos pizza night with friends,1201,Expense,Food,Dominos
+10022,2025-07-28,Auto-debit for DMart monthly household shopping,928,Expense,Shopping,DMart
+11338,2026-03-12,Online payment for Birthday gift purchase,692,Expense,Other,Gift Shop
+10460,2026-04-08,Paid via wallet for Swiggy dinner order,454,Expense,Food,Swiggy
+11185,2026-09-23,Paid via wallet for Petrol refill at IndianOil,1449,Expense,Transport,IndianOil
+10277,2025-09-14,Auto-debit for Zomato lunch order,717,Expense,Food,Zomato
+10956,2025-08-25,UPI payment for Flipkart home essentials,4217,Expense,Shopping,Flipkart
+11216,2026-07-08,Amazon technical books,903,Expense,Education,Amazon Books
+10386,2025-10-05,Online payment for Flipkart home essentials,2111,Expense,Shopping,Flipkart
+10806,2025-11-09,Paid via wallet for Flipkart home essentials,2713,Expense,Shopping,Flipkart
+11438,2025-01-13,Card payment for Dominos pizza night with friends,1012,Expense,Food,Dominos
+11516,2026-06-16,Online payment for Nykaa personal care order,592,Expense,Shopping,Nykaa
+10344,2025-06-20,Online payment for Jio fiber broadband bill,800,Expense,Bills,Jio
+10770,2025-07-26,Auto-debit for Ola cab ride,339,Expense,Transport,Ola
+11333,2026-04-13,Auto-debit for Steam game purchase,1517,Expense,Entertainment,Steam
+10131,2026-02-25,Card payment for Swiggy dinner order after work,624,Expense,Food,Swiggy
+10872,2026-09-22,Paid via wallet for Amazon electronics purchase,5534,Expense,Shopping,Amazon
+11124,2025-10-13,Online payment for Coffee and breakfast at cafe after work,573,Expense,Food,Local Cafe
+11397,2025-02-06,Online payment for NPTEL exam registration,1128,Expense,Education,NPTEL
+10088,2026-05-08,Dominos pizza night with friends,540,Expense,Food,Dominos
+11483,2024-11-16,Paid via wallet for Zomato lunch order,275,Expense,Food,Zomato
+10331,2026-08-07,Online payment for Swiggy dinner order,616,Expense,Food,Swiggy
+11239,2024-11-15,Online payment for Dominos pizza night,533,Expense,Food,Dominos
+10467,2026-05-17,Auto-debit for Steam game purchase,1979,Expense,Entertainment,Steam
+10122,2025-08-27,Online payment for Myntra clothing purchase,582,Expense,Shopping,Myntra
+11045,2025-07-24,Blinkit groceries and snacks with friends,438,Expense,Food,Blinkit
+11096,2025-11-15,Online payment for Blinkit groceries and snacks,916,Expense,Food,Blinkit
+11131,2026-05-29,Metro recharge,229,Expense,Transport,Delhi Metro
+11295,2026-05-21,Steam game purchase,363,Expense,Entertainment,Steam
+10861,2026-05-06,Paid via wallet for Spotify premium subscription,183,Expense,Entertainment,Spotify
+11460,2026-07-13,UPI payment for Zomato lunch order,565,Expense,Food,Zomato
+11127,2025-08-12,UPI payment for LPG cylinder booking,1181,Expense,Bills,Gas Agency

@@ -1,0 +1,178 @@
+{
+  "trained_at": "2026-11-03T12:31:59.620500+00:00",
+  "best_models": {
+    "total_expenses": "Linear Regression",
+    "food_expenses": "Linear Regression",
+    "transport_expenses": "Linear Regression",
+    "shopping_expenses": "Linear Regression",
+    "bills_expenses": "Linear Regression",
+    "health_expenses": "Linear Regression",
+    "entertainment_expenses": "Linear Regression",
+    "education_expenses": "Linear Regression",
+    "other_expenses": "Linear Regression"
+  },
+  "metrics": {
+    "total_expenses": {
+      "mae": 1443.01,
+      "rmse": 1795.06,
+      "r2": 0.7529
+    },
+    "food_expenses": {
+      "mae": 566.61,
+      "rmse": 714.67,
+      "r2": 0.1103
+    },
+    "transport_expenses": {
+      "mae": 191.03,
+      "rmse": 233.78,
+      "r2": 0.2579
+    },
+    "shopping_expenses": {
+      "mae": 544.93,
+      "rmse": 630.82,
+      "r2": 0.7361
+    },
+    "bills_expenses": {
+      "mae": 845.48,
+      "rmse": 1104.88,
+      "r2": 0.5439
+    },
+    "health_expenses": {
+      "mae": 232.78,
+      "rmse": 278.6,
+      "r2": 0.1495
+    },
+    "entertainment_expenses": {
+      "mae": 135.02,
+      "rmse": 168.76,
+      "r2": 0.698
+    },
+    "education_expenses": {
+      "mae": 130.07,
+      "rmse": 164.41,
+      "r2": -0.0468
+    },
+    "other_expenses": {
+      "mae": 83.72,
+      "rmse": 99.48,
+      "r2": 0.0622
+    }
+  },
+  "comparison": {
+    "total_expenses": {
+      "Linear Regression": {
+        "mae": 1443.01,
+        "rmse": 1795.06,
+        "r2": 0.7529
+      },
+      "Random Forest Regressor": {
+        "mae": 3222.63,
+        "rmse": 3738.09,
+        "r2": -0.0714
+      }
+    },
+    "food_expenses": {
+      "Linear Regression": {
+        "mae": 566.61,
+        "rmse": 714.67,
+        "r2": 0.1103
+      },
+      "Random Forest Regressor": {
+        "mae": 716.55,
+        "rmse": 875.03,
+        "r2": -0.3337
+      }
+    },
+    "transport_expenses": {
+      "Linear Regression": {
+        "mae": 191.03,
+        "rmse": 233.78,
+        "r2": 0.2579
+      },
+      "Random Forest Regressor": {
+        "mae": 255.68,
+        "rmse": 309.24,
+        "r2": -0.2986
+      }
+    },
+    "shopping_expenses": {
+      "Linear Regression": {
+        "mae": 544.93,
+        "rmse": 630.82,
+        "r2": 0.7361
+      },
+      "Random Forest Regressor": {
+        "mae": 965.86,
+        "rmse": 1084.2,
+        "r2": 0.2203
+      }
+    },
+    "bills_expenses": {
+      "Linear Regression": {
+        "mae": 845.48,
+        "rmse": 1104.88,
+        "r2": 0.5439
+      },
+      "Random Forest Regressor": {
+        "mae": 1069.24,
+        "rmse": 1290.01,
+        "r2": 0.3783
+      }
+    },
+    "health_expenses": {
+      "Linear Regression": {
+        "mae": 232.78,
+        "rmse": 278.6,
+        "r2": 0.1495
+      },
+      "Random Forest Regressor": {
+        "mae": 371.28,
+        "rmse": 463.85,
+        "r2": -1.3574
+      }
+    },
+    "entertainment_expenses": {
+      "Linear Regression": {
+        "mae": 135.02,
+        "rmse": 168.76,
+        "r2": 0.698
+      },
+      "Random Forest Regressor": {
+        "mae": 228.77,
+        "rmse": 283.9,
+        "r2": 0.1454
+      }
+    },
+    "education_expenses": {
+      "Linear Regression": {
+        "mae": 130.07,
+        "rmse": 164.41,
+        "r2": -0.0468
+      },
+      "Random Forest Regressor": {
+        "mae": 120.62,
+        "rmse": 178.87,
+        "r2": -0.2391
+      }
+    },
+    "other_expenses": {
+      "Linear Regression": {
+        "mae": 83.72,
+        "rmse": 99.48,
+        "r2": 0.0622
+      },
+      "Random Forest Regressor": {
+        "mae": 85.66,
+        "rmse": 99.95,
+        "r2": 0.0534
+      }
+    }
+  },
+  "train_rows": 48,
+  "test_rows": 12,
+  "date_range": {
+    "start": "2021-11",
+    "end": "2026-10"
+  },
+  "next_month": "2026-11"
+}
